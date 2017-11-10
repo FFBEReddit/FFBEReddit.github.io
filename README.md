@@ -5,4 +5,4 @@ Credit/Based on:
 
 https://github.com/rpokemon/rpokemon.github.io
 
-https://github.com/FFBEReddit/bfreddit.github.io
+https://github.com/bfreddit/bfreddit.github.io
