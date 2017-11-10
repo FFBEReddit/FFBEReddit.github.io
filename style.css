@@ -32,11 +32,10 @@ body {
     border-radius: 5px;
     box-shadow: 0 0 0 1px #999, inset 0 0 0 1px #FFF;
     background: #ecf0f1;
-    border: 2px solid #D5D5E6;
-    outline: #000B2B outset 1px;
-    border-radius: 3px;
-}
-.wrapper.no-margin {
+    border: 
+
+
+}o-margin {
     margin-top: 0;
 }
 .wrapper.no-pad, .wrapper.no-pad:not(.no-style) {
@@ -185,11 +184,10 @@ button:active, input[type=submit]:active {
     cursor: pointer;
     margin: 6px 2px;
     position: relative;
-    border: 1px solid #D5D5E6;
-    outline: rgba(0, 11, 43, 0.69) outset 1px;
-    border-radius: 2px;
-}
-.flair:not([class*='flair-']) {
+    border: 
+
+
+}([class*='flair-']) {
     background: rgba(0,0,0,0.03);
     border-radius: 3px;
 }
