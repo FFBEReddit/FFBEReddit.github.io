@@ -17,6 +17,12 @@ body {
 .clearfix, .cf {zoom:1;}
 .hide { display: none !important; }
 
+/* Will this work? */
+
+div#flair-selection-flair {
+    image-rendering: pixelated;
+    zoom: 200%;}
+
 .wrapper {
     width: 100%;
     max-width: 792px;
