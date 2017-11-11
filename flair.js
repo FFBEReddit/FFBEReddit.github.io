@@ -390,6 +390,7 @@ flair.names = {
 	"icon373 glex 8082": "(Halloween) Grim Lord Sakura",
 	"icon374 glex 8085": "(Halloween) Illusionist Nichol",
 	"icon375 glex 8088": "(Halloween) Pirate Jake",
+	"icon376 glex 8000": "(Halloween) Demon Rain",
 	"icon321 glex 8057": "(Fan Festa) Artisan Lid",
 	"icon302 glex 8033": "Cupid Artemios",
 	"icon303 glex 8051": "Reberta",
