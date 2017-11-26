@@ -409,7 +409,7 @@ flair.names = {
 	"icon255 glex 8029": "Ling",
 	"icon269 glex 8039": "Olive",
 	"icon253 glex 8023": "Dangerous Ariana",
-	"icon377 glex 8091": "(Fan Festa) Maiden Sakura",
+	"icon377 glex 8102": "(Fan Festa) Maiden Sakura",
 	"icon378 glex 8100": "Charming Kitty Ariana",
 	"icon379 glex 8097": "Sportive Ariana",
 	"icon385 glex 8009": "Black Cat Lid",
