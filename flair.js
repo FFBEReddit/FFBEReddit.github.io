@@ -182,6 +182,7 @@ flair.names = {
 	"icon389 be 1026": "CG Hyou",
 	"icon390 be 1029": "Shatal",
 	"icon391 be 1032": "Domino",
+	"icon392 be 1050": "Ukiyo",
 /* [Final Fantasy (ff)] */
 	"icon053 ff 222": "(FF1) Warrior of Light",
 	"icon054 ff 111": "(FF1) Garland",
