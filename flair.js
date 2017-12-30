@@ -74,8 +74,8 @@ flair.names = {
 	"icon032 be 169": "Carrie",
 	"icon033 be 171": "Skaha",
 	"icon034 be 173": "Montana",
-	"icon035 be 175": "Russell",
-	"icon036 be 177": "Miyuki",
+	/*"icon035 be 175": "Russell",
+	"icon036 be 177": "Miyuki",*/
 	"icon037 be 203": "Gilbert",
 	"icon038 be 185": "Xiao",
 	"icon039 be 214": "Rakshasa",
@@ -118,8 +118,8 @@ flair.names = {
 	"icon224 be 600": "Light Veritas",
 	"icon225 be 602": "Wind Veritas",
 	"icon226 be 605": "Water Veritas",
-	"icon228 be 610": "Aura",
-	"icon229 be 613": "Grom",
+	/*"icon228 be 610": "Aura",
+	"icon229 be 613": "Grom",*/
 	"icon243 be 649": "Lorraine",
 	"icon244 be 651": "Ayaka",
 	"icon245 be 653": "Gouken",
@@ -203,8 +203,8 @@ flair.names = {
 	"icon068 ff 594": "(FF3) Desch",
 	"icon069 ff 126": "(FF3) Cloud of Darkness",
 	"icon219 ff 589": "(FF3) Onion Knight",
-	"icon220 ff 591": "(FF3) Aria",
-	"icon221 ff 594": "(FF3) Desch",
+	/*"icon220 ff 591": "(FF3) Aria",
+	"icon221 ff 594": "(FF3) Desch",*/
 	"icon222 ff 597": "(FF3) Sara",
 	"icon070 ff 129": "(FF4) Cecil",
 	"icon071 ff 294": "(FF4) Dark Knight Cecil",
@@ -313,6 +313,8 @@ flair.names = {
 	"icon270 ff 716": "(FF15) Gladio",
 	"icon271 ff 718": "(FF15) Cor",
 	"icon272 ff 721": "(FF15) Iris",
+	"icon396 ff 1052": "(FF15) Ignis",
+	"icon397 ff 1055": "(FF15) Ravus",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"icon181 spoff 456": "(Type-0) Rem",
 	"icon182 spoff 458": "(Type-0) King",
@@ -368,8 +370,8 @@ flair.names = {
 	"icon232 collab 623": "(MHXR) Hunter Fina",
 	"icon233 collab 626": "(MHXR) Hunter Nichol",
 	"icon234 collab 629": "(MHXR) Hunter Lid",
-	"icon235 collab 631": "(MHXR) Hunter Sakura",
-	"icon236 collab 634": "(MHXR) Hunter Jake",
+	/*"icon235 collab 631": "(MHXR) Hunter Sakura",
+	"icon236 collab 634": "(MHXR) Hunter Jake",*/
 	"icon352 collab 928": "(Star Ocean) Fayt",
 	"icon353 collab 930": "(Star Ocean) Rena",
 	"icon354 collab 932": "(Star Ocean) Fidel",
@@ -398,6 +400,10 @@ flair.names = {
 	"icon250 collab 667": "(Romancing Saga 3) Katrina",
 	"icon251 collab 669": "(Romancing Saga 3) Harid",
 	"icon252 collab 672": "(Romancing Saga 3) Robin",
+	"icon398 collab 1059": "(King's Knight) Ray Jack",
+	"icon399 collab 1062": "(King's Knight) Kaliva",
+	"icon400 collab 1065": "(King's Knight) Toby",
+	"icon401 collab 1068": "(King's Knight) Barusa",
 /* [Global Exclusives (glex)] */
 	"icon373 glex 8082": "(Halloween) Grim Lord Sakura",
 	"icon374 glex 8085": "(Halloween) Illusionist Nichol",
@@ -420,6 +426,9 @@ flair.names = {
 	"icon378 glex 8100": "Charming Kitty Ariana",
 	"icon379 glex 8097": "Sportive Ariana",
 	"icon385 glex 8009": "Black Cat Lid",
+	"icon393 glex 8106": "(Christmas) Christine",
+	"icon394 glex 8109": "(Christmas) Kryla",
+	"icon395 glex 8112": "(Christmas) Tinkerer Carrie",
 /* [Others (other)] */
 	"icon154 other b1": "King Gil Snapper",
 	"icon155 other b2": "Mini Cactuar",
