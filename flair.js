@@ -81,13 +81,13 @@ flair.names = {
 	"icon039 be 214": "Rakshasa",
 	"icon040 be 251": "Ludmille",
 	"icon041 be 254": "Charlotte",
-	"icon042 be 191": "Artemios",
+	/*"icon042 be 191": "Artemios",*/
 	"icon043 be 217": "Chizuru",
 	"icon044 be 219": "Hayate",
 	"icon045 be 387": "Elle",
 	"icon046 be 390": "Luka",
 	"icon047 be 365": "Mercedes",
-	"icon048 be 404": "Lawrence",
+	/*"icon048 be 404": "Lawrence",*/
 	"icon049 be 401": "Soleil",
 	"icon050 be 409": "Shine",
 	"icon051 be 412": "Shiera",
@@ -144,9 +144,9 @@ flair.names = {
 	"icon276 be 732": "Shaly",
 	"icon277 be 735": "Ryunan",
 	"icon284 be 761": "Jiraiya",
-	"icon285 be 763": "Kaede",
+	/*"icon285 be 763": "Kaede",
 	"icon286 be 766": "Ouga",
-	"icon287 be 769": "Otogiri",
+	"icon287 be 769": "Otogiri",*/
 	"icon288 be 772": "Ice Knight Lasswell (CG Lasswell)",
 	"icon299 be 793": "CG Sakura", /*Needs Name Update*/
 	"icon300 be 795": "Vern",
