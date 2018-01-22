@@ -40,7 +40,6 @@ flair.load__by_id = function() {
 }
 flair.by_id = {}
 flair.names = {
-/* [FFBE Original (be)] */
 	"001 be 001": "Rain",
 	"005 be 005": "Lasswell",
 	"009 be 009": "Fina",
@@ -192,7 +191,6 @@ flair.names = {
 	"1086 be 1086": "CG Citra",
 	"1089 be 1089": "Makumedi",
 	"1092 be 1092": "Lottie",
-/* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
 	"033 ff 033": "(FF2) Paul",
@@ -315,15 +313,14 @@ flair.names = {
 	"8076 ff 8076": "(FF4) Cagnazzo",
 	"8091 ff 8091": "(FF4) Barbariccia",
 	"8094 ff 8094": "(FF4) Rubicante",
-	"ur01 ff ur01": "(FF2) Leila *Unreleased",
+	/*"ur01 ff ur01": "(FF2) Leila *Unreleased",
 	"ur02 ff ur02": "(FF3) Doga *Unreleased",
 	"ur03 ff ur03": "(FF5) Mid Previa *Unreleased",
 	"ur04 ff ur04": "(FF9) Quina *Unreleased",
 	"ur05 ff ur05": "(FF12) Reddas *Unreleased", 
 	"ur06 ff ur06": "(FF3) Onion Knight *Beta",
 	"ur07 ff ur07": "(FF6) Relm *Unreleased",
-	"ur08 ff ur08": "(FF6) Umaro *Unreleased",
-/* [Final Fantasy Spin-offs (spoff)] */
+	"ur08 ff ur08": "(FF6) Umaro *Unreleased",*/
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
 	"263 spoff 263": "(FFT) Agrias",
@@ -347,7 +344,6 @@ flair.names = {
 	"563 spoff 563": "(FFT) Knight Delita",
 	"567 spoff 567": "(FFT) Meliadoul",
 	"570 spoff 570": "(FFT) Orran",
-/* [Collaborations (collab)] */
 	"212 collab 212": "(Terra Battle) Samatha・Λ",
 	"243 collab 243": "(Imperial Saga) Adel",
 	"245 collab 245": "(Brave Frontier) Karl",
@@ -418,7 +414,6 @@ flair.names = {
 	"1101 collab 1101": "(Valkyrie Profile) Arngrim",
 	"1104 collab 1104": "(Valkyrie Profile) Lucian",
 	"1107 collab 1107": "(Valkyrie Profile) Jelanda",
-/* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
 	"895 glex 895": "Ling",
@@ -449,11 +444,10 @@ flair.names = {
 	"8106 glex 8106": "(Christmas) Christine",
 	"8109 glex 8109": "(Christmas) Kryla",
 	"8112 glex 8112": "(Christmas) Tinkerer Carrie",
-/* [Others (other)] */
-	"ms01 other ms01": "King Gil Snapper",
+	/*"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
 	"ms03 other ms03": "Cactuar",
 	"ms04 other ms04": "Metal Gigantuar",
 	"ms05 other ms05": "Moogle",
-	"ms06 other ms06": "Goblin",
+	"ms06 other ms06": "Goblin",*/
 };
