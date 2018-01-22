@@ -370,4 +370,11 @@ flair.names = {
 	"8106 glex 8106": "(Christmas) Christine",
 	"8109 glex 8109": "(Christmas) Kryla",
 	"8112 glex 8112": "(Christmas) Tinkerer Carrie",
+/* [Others (other)] */
+	"ms01 other ms01": "King Gil Snapper",
+	"ms02 other ms02": "Mini Cactuar",
+	"ms03 other ms03": "Cactuar",
+	"ms04 other ms04": "Metal Gigantuar",
+	"ms05 other ms05": "Moogle",
+	"ms06 other ms06": "Goblin",
 };
