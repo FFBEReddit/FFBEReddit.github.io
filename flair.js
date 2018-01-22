@@ -415,7 +415,7 @@ flair.names = {
 	"8065 collab 8065": "(Nier) Eve",
 	"1095 collab 1095": "(Valkyrie Profile) Lenneth",
 	"1098 collab 1098": "(Valkyrie Profile) Freya",
-	"1101 collab 1101": "(Valkyrie Profile) Arngrim",
+	"i1101 collab 1101": "(Valkyrie Profile) Arngrim",
 	"1104 collab 1104": "(Valkyrie Profile) Lucian",
 	"1107 collab 1107": "(Valkyrie Profile) Jelanda",
 /* [Global Exclusives (glex)] */
