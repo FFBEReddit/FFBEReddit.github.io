@@ -323,6 +323,10 @@ flair.names = {
 	"ur06 ff ur06": "(FF3) Onion Knight *Beta",
 	"ur07 ff ur07": "(FF6) Relm *Unreleased",
 	"ur08 ff ur08": "(FF6) Umaro *Unreleased",
+	"1110 ff 1110": "(FF7) Tifa",
+	"1113 ff 1113": "(FF7) Vincent",
+	"1116 ff 1116": "(FF7) Barret",
+	"1119 ff 1119": "(FF7) Cait Sith",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
