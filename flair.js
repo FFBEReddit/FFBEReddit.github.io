@@ -192,6 +192,10 @@ flair.names = {
 	"1086 be 1086": "CG Citra",
 	"1089 be 1089": "Makumedi",
 	"1092 be 1092": "Lottie",
+	"1137 be 1137": "Elfim",
+	"1140 be 1140": "Leopold",
+	"1143 be 1143": "Magna",
+	"1146 be 1146": "Forelske",	
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
