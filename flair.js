@@ -426,6 +426,8 @@ flair.names = {
 	"1101 collab 1101": "(Valkyrie Profile) Arngrim",
 	"1104 collab 1104": "(Valkyrie Profile) Lucian",
 	"1107 collab 1107": "(Valkyrie Profile) Jelanda",
+	"1149 collab 1149": "(Seiken Densetsu 2) Flammie",
+	"1156 collab 1156": "(Seiken Densetsu 2) Rabbie",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
