@@ -355,6 +355,10 @@ flair.names = {
 	"563 spoff 563": "(FFT) Knight Delita",
 	"567 spoff 567": "(FFT) Meliadoul",
 	"570 spoff 570": "(FFT) Orran",
+	"1159 spoff 1159": "(Type-0) Machina",
+	"1162 spoff 1162": "(Type-0) Kurasame",
+	"1165 spoff 1165": "(Type-0) Deuce",
+	"1168 spoff 1168": "(Type-0) Cater",
 /* [Collaborations (collab)] */
 	"212 collab 212": "(Terra Battle) Samatha",
 	"243 collab 243": "(Imperial Saga) Adel",
