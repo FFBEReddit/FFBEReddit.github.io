@@ -196,6 +196,10 @@ flair.names = {
 	"1140 be 1140": "Leopold",
 	"1143 be 1143": "Magna",
 	"1146 be 1146": "Forelske",	
+	"1171 be 1171": "CG Sieghart (Zekehart)",
+	"1174 be 1174": "Dietlinde",
+	"1177 be 1177": "Theobalt",
+	"1180 be 1180": "Kanon",	
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
@@ -432,6 +436,7 @@ flair.names = {
 	"1107 collab 1107": "(Valkyrie Profile) Jelanda",
 	"1149 collab 1149": "(Seiken Densetsu 2) Flammie",
 	"1156 collab 1156": "(Seiken Densetsu 2) Rabbie",
+	"8143 collab 8143": "(Tomb Raider) Lara Croft",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
@@ -466,6 +471,9 @@ flair.names = {
 	"8128 glex 8128": "(Festival of Love) Ang",
 	"8131 glex 8131": "(Festival of Love) Chow",
 	"8134 glex 8134": "(Festival of Love) Yan",
+	"8137 glex 8137": "(TR x FFBE) Explorer Aileen",
+	"8140 glex 8140": "(TR x FFBE) Divine Soleil",
+	"8146 glex 8146": "(TR x FFBE) Pharaoh Soleil",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
