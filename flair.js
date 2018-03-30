@@ -338,6 +338,10 @@ flair.names = {
 	"1113 ff 1113": "(FF7) Vincent",
 	"1116 ff 1116": "(FF7) Barret",
 	"1119 ff 1119": "(FF7) Cait Sith",
+	"1194 ff 1194": "(FF3) Onion Knight Refia",
+	"1197 ff 1197": "(FF3) Dark Knight Luneth",
+	"1200 ff 1200": "(FF3) Doga",
+	"1203 ff 1203": "(FF3) Unei",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
