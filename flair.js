@@ -448,6 +448,12 @@ flair.names = {
 	"1149 collab 1149": "(Seiken Densetsu 2) Flammie",
 	"1156 collab 1156": "(Seiken Densetsu 2) Rabbie",
 	"8143 collab 8143": "(Tomb Raider) Lara Croft",
+	"1219 collab 1219": "(Xenogears) Fei",
+	"1222 collab 1222": "(Xenogears) Elly",
+	"1225 collab 1225": "(Xenogears) Emeralda",
+	"1228 collab 1228": "(Xenogears) Bart",
+	"1231 collab 1231": "(Xenogears) Rico",
+	"1234 collab 1234": "(Xenogears) Chu-Chu",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
