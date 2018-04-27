@@ -346,6 +346,10 @@ flair.names = {
 	"1197 ff 1197": "(FF3) Dark Knight Luneth",
 	"1200 ff 1200": "(FF3) Doga",
 	"1203 ff 1203": "(FF3) Unei",
+	"1237 ff 1237": "(FF10) Jecht",
+	"1240 ff 1240": "(FF10) Auron",
+	"1243 ff 1243": "(FF10) Belgemine",
+	"1246 ff 1246": "(FF10) Brother",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
