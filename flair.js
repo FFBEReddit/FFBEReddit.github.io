@@ -462,6 +462,9 @@ flair.names = {
 	"1228 collab 1228": "(Xenogears) Bart",
 	"1231 collab 1231": "(Xenogears) Rico",
 	"1234 collab 1234": "(Xenogears) Chu-Chu",
+	"1261 collab 1261": "(Xenogears) Citan",
+	"1264 collab 1264": "(Xenogears) Maria",
+	"1267 collab 1267": "(Xenogears) Billy",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
