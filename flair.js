@@ -382,6 +382,10 @@ flair.names = {
 	"1162 spoff 1162": "(Type-0) Kurasame",
 	"1165 spoff 1165": "(Type-0) Deuce",
 	"1168 spoff 1168": "(Type-0) Cater",
+	"1270 spoff 1270": "(FFT) Ultima/Altima",
+	"1273 spoff 1273": "(FFT) Beowulf",
+	"1276 spoff 1276": "(FFT) Reis",
+	"1279 spoff 1279": "(FFT) Contrust 8/Worker-8/C8",
 /* [Collaborations (collab)] */
 	"212 collab 212": "(Terra Battle) Samatha",
 	"243 collab 243": "(Imperial Saga) Adel",
