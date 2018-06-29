@@ -363,6 +363,7 @@ flair.names = {
 	"1240 ff 1240": "(FF10) Auron",
 	"1243 ff 1243": "(FF10) Belgemine",
 	"1246 ff 1246": "(FF10) Brother",
+	"1309 ff 1309": "(FF4) Dark Mage Golbez",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
