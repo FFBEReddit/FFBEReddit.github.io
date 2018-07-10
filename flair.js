@@ -220,6 +220,10 @@ flair.names = {
 	"1300 be 1300": "(Raid) Yego (イーゴ)",
 	"1303 be 1303": "(Raid) Zolulu & Delulu (ゾルル＆デルル)",
 	"1306 be 1306": "(Raid) Galas (ガーラス)",
+	"1324 be 1324": "(SE#23) CG Akstar",
+	"1327 be 1327": "(SE#23) Gravie",
+	"1330 be 1330": "(SE#23) Tomoe",
+	"1333 be 1333": "(SE#23) Majora",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
