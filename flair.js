@@ -483,6 +483,11 @@ flair.names = {
 	"1261 collab 1261": "(Xenogears) Citan",
 	"1264 collab 1264": "(Xenogears) Maria",
 	"1267 collab 1267": "(Xenogears) Billy",
+	"1336 collab 1336": "(Octopath Traveler) Primrose",
+	"1339 collab 1339": "(Octopath Traveler) Olberic",
+	"1342 collab 1342": "(Octopath Traveler) Therion",
+	"1345 collab 1345": "(Octopath Traveler) Tressa",
+	"1348 collab 1348": "(RikoDoki) Riko",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
