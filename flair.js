@@ -374,6 +374,8 @@ flair.names = {
 	"1309 ff 1309": "(FF4) Dark Mage Golbez",
 	"1355 ff 1355": "(FF7) Aerith",
 	"1358 ff 1358": "(FF7) Red XIII",
+	"1373 ff 1373": "(FF7) Zack",
+	"1376 ff 1376": "(FF7) Yuffie",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
