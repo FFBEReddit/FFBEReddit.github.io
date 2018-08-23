@@ -537,6 +537,10 @@ flair.names = {
 	"8152 glex 8152": "(Just Cause 3) Mario Frigo",
 	"8155 glex 8155": "(Just Cause 3) Annika Svennson",
 	"8149 glex 8149": "(Just Cause 3) Teo",
+	"8166 glex 8166": "(Deus Ex: MD) Adam Jensen",
+	"8169 glex 8169": "(Deus Ex: MD) Viktor",
+	"8160 glex 8160": "(Deus Ex: MD) Václav Koller",
+	"8163 glex 8163": "(Deus Ex: MD) Frank Pritchard",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
