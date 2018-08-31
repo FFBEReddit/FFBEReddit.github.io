@@ -376,6 +376,8 @@ flair.names = {
 	"1358 ff 1358": "(FF7) Red XIII",
 	"1373 ff 1373": "(FF7) Zack",
 	"1376 ff 1376": "(FF7) Yuffie",
+	"1379 ff 1379": "(FF6) King Edgar",
+	"1382 ff 1382": "(FF6) Fighter Sabin",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
