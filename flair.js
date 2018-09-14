@@ -188,7 +188,7 @@ flair.names = {
 	"1038 be 1038": "(SE#16) CG Hyou",
 	"1041 be 1041": "(SE#16) Shatal",
 	"1044 be 1044": "(SE#16) Domino",
-	"1050 be 1050": "(SE#16) Ukiyo",
+	"1050 be 1050": "Ukiyo",
 	"1086 be 1086": "(SE#17) CG Citra",
 	"1089 be 1089": "(SE#17) Makumedi",
 	"1092 be 1092": "(SE#17) Lottie",
