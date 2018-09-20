@@ -228,6 +228,11 @@ flair.names = {
 	"1364 be 1364": "(SE#24) Crimson",
 	"1367 be 1367": "(SE#24) Kyanos",
 	"1370 be 1370": "(SE#24) Milfas",
+	"1392 be 1392": "CG Summer Folka & Citra 2018",
+	"1395 be 1395": "(SE#25) Regina",
+	"1398 be 1398": "(SE#25) Amber",
+	"1401 be 1401": "(SE#25) Vesuvia",
+	"1404 be 1404": "(SE#25) Chrowa",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
