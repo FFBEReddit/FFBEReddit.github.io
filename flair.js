@@ -548,6 +548,10 @@ flair.names = {
 	"8169 glex 8169": "(Deus Ex: MD) Viktor",
 	"8160 glex 8160": "(Deus Ex: MD) Václav Koller",
 	"8163 glex 8163": "(Deus Ex: MD) Frank Pritchard",
+	"8172 glex 8172": "(Summer 2018) Aloha Lasswell",
+	"8175 glex 8175": "(Summer 2018) Seaside Nichol",
+	"8178 glex 8178": "(Summer 2018) Summertime Luka",
+	"8181 glex 8181": "(Summer 2018) Tide Rider Skaha",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
