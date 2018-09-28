@@ -233,6 +233,7 @@ flair.names = {
 	"1398 be 1398": "(SE#25) Amber",
 	"1401 be 1401": "(SE#25) Vesuvia",
 	"1404 be 1404": "(SE#25) Chrowa",
+	"1407 be 1407": "(3rd Anni) Chocobo Rain",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
