@@ -234,6 +234,9 @@ flair.names = {
 	"1401 be 1401": "(SE#25) Vesuvia",
 	"1404 be 1404": "(SE#25) Chrowa",
 	"1407 be 1407": "(3rd Anni) Chocobo Rain",
+	"1422 be 1422": "(SE#26) CG Charlotte",
+	"1425 be 1425": "(SE#26) Friese",
+	"1428 be 1428": "(SE#26) Shepard",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
