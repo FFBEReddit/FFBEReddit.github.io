@@ -237,6 +237,8 @@ flair.names = {
 	"1422 be 1422": "(SE#26) CG Charlotte",
 	"1425 be 1425": "(SE#26) Friese",
 	"1428 be 1428": "(SE#26) Shepard",
+	"1434 be 1434": "Kimono Ayaka",
+	"1437 be 1437": "Dress up Aileen",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
@@ -507,6 +509,7 @@ flair.names = {
 	"1342 collab 1342": "(Octopath Traveler) Therion",
 	"1345 collab 1345": "(Octopath Traveler) Tressa",
 	"1348 collab 1348": "(RikoDoki) Riko",
+	"1440 collab 1440": "(Imperial Saga) Emperor Adel",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
