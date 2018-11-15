@@ -572,6 +572,8 @@ flair.names = {
 	"8187 glex 8187": "(Fan Contest 2017) Circe",
 	"8199 glex 8199": "(Halloween 2018) Lilith",
 	"8202 glex 8202": "(Halloween 2018) Lucius",
+	"8193 glex 8193": "(Fan Contest 2017) Ellesperis",
+	"8196 glex 8196": "(Fan Contest 2017) Beryl",	
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
