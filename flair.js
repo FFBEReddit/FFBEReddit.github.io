@@ -395,6 +395,9 @@ flair.names = {
 	"1382 ff 1382": "(FF6) Fighter Sabin",
 	"1445 ff 1445": "(FF13) CG Lightning",
 	"1448 ff 1448": "(FF13) Future Hope",
+	"1472 ff 1472": "(FF5) Light Warrior Krile",
+	"1475 ff 1475": "(FF5) Dark Mage Exdeath",
+	"1478 ff 1478": "(FF5) Dawn Warrior Galuf",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
