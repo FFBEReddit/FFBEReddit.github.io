@@ -243,6 +243,9 @@ flair.names = {
 	"1463 be 1463": "(SE#27) Heliak",
 	"1466 be 1466": "(SE#27) Eclipsa",
 	"1469 be 1469": "(SE#27) Pelteira",
+	"1487 be 1487": "Atri",
+	"1490 be 1490": "Tessen",
+	"1493 be 1493": "(3rd Anni) Chocobo Fina",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
@@ -398,6 +401,8 @@ flair.names = {
 	"1472 ff 1472": "(FF5) Light Warrior Krile",
 	"1475 ff 1475": "(FF5) Dark Mage Exdeath",
 	"1478 ff 1478": "(FF5) Dawn Warrior Galuf",
+	"1481 ff 1481": "(FF5) CG Light Warrior Bartz",
+	"1484 ff 1484": "(FF5) Light Warrior Lenna",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
