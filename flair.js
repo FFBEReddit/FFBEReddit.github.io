@@ -588,6 +588,7 @@ flair.names = {
 	"8193 glex 8193": "(Fan Contest 2017) Ellesperis",
 	"8196 glex 8196": "(Fan Contest 2017) Beryl",
 	"8221 glex 8221": "(Fan Festa 2018) Aurora Fryevia",
+	"8205 glex 8205": "(Katy Perry) Popstar Katy",
 	"8208 glex 8208": "(Christmas 2018) Tiana",
 	"8211 glex 8211": "(Christmas 2018) Felix",
 /* [Others (other)] */
