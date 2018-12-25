@@ -246,9 +246,10 @@ flair.names = {
 	"1487 be 1487": "Atri",
 	"1490 be 1490": "Tessen",
 	"1493 be 1493": "(3rd Anni) Chocobo Fina",
-	"1498 be 1496": "(SE#28) Faisalith",
-	"1501 be 1499": "(SE#28) Juraga",
-	"1504 be 1502": "(SE#28) Gudon",
+	"1496 be 1496": "(SE#28) Faisalith",
+	"1499 be 1499": "(SE#28) Juraga",
+	"1502 be 1502": "(SE#28) Gudon",
+	"1511 be 1511": "(Christmas 2018) Holy Night Amelia & Emilia",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
