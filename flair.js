@@ -250,6 +250,9 @@ flair.names = {
 	"1499 be 1499": "(SE#28) Juraga",
 	"1502 be 1502": "(SE#28) Gudon",
 	"1511 be 1511": "(Christmas 2018) Holy Night Amelia & Emilia",
+	"1514 be 1514": "(New Year 2019) Kimono Fina",
+	"1523 be 1523": "(New Year 2019) Latale",
+	"1526 be 1526": "(New Year 2019) Neisha",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
@@ -407,6 +410,8 @@ flair.names = {
 	"1478 ff 1478": "(FF5) Dawn Warrior Galuf",
 	"1481 ff 1481": "(FF5) CG Light Warrior Bartz",
 	"1484 ff 1484": "(FF5) Light Warrior Lenna",
+	"1517 ff 1517": "(FF6) Magitek Warrior Terraa",
+	"1520 ff 1520": "(FF6) Adventurer Locke",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
