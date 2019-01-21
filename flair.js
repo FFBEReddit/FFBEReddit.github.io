@@ -412,6 +412,8 @@ flair.names = {
 	"1484 ff 1484": "(FF5) Light Warrior Lenna",
 	"1517 ff 1517": "(FF6) CG Magitek Warrior Terra",
 	"1520 ff 1520": "(FF6) Adventurer Locke",
+	"1529 ff 1529": "(FF6) Assassin Shadow",
+	"1532 ff 1532": "(FF6) Great Mage Kefka",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
