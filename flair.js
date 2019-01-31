@@ -414,6 +414,8 @@ flair.names = {
 	"1520 ff 1520": "(FF6) Adventurer Locke",
 	"1529 ff 1529": "(FF6) Assassin Shadow",
 	"1532 ff 1532": "(FF6) Great Mage Kefka",
+	"1535 ff 1535": "(FF2) Wild Rose Swordsman Firion",
+	"1538 ff 1538": "(FF2) Dark Knight Leon",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
