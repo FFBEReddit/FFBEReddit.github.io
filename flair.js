@@ -253,6 +253,9 @@ flair.names = {
 	"1514 be 1514": "(New Year 2019) Kimono Fina",
 	"1523 be 1523": "(New Year 2019) Latale",
 	"1526 be 1526": "(New Year 2019) Neisha",
+	"1541 be 1541": "(Summon Fest) CG Dark Fina",
+	"1544 be 1544": "(Valentine's Day 2019) Sweet Nichol",
+	"1547 be 1547": "(Valentine's Day 2019) Sweet Luka",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
@@ -602,6 +605,8 @@ flair.names = {
 	"8205 glex 8205": "(Katy Perry) Popstar Katy",
 	"8208 glex 8208": "(Christmas 2018) Tiana",
 	"8211 glex 8211": "(Christmas 2018) Felix",
+	"8218 glex 8218": "(Chinese New Year 2019) Qin",
+	"8226 glex 8226": "(Chinese New Year 2019) Bai Hu & Zhu Que",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
