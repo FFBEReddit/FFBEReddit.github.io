@@ -210,7 +210,7 @@ flair.names = {
 	"1249 be 1249": "(SE#21) CG Ignacio",
 	"1252 be 1252": "(SE#21) Suzume",
 	"1255 be 1255": "(SE#21) PNK-2",
-	"1258 be 1258": "(SE#21) Weyham",
+	"1258 be 1258": "(SE#21) Wayhem",
 	"1282 be 1282": "(SE#22) CG Cid",
 	"1285 be 1285": "(SE#22) Melete",
 	"1288 be 1288": "(SE#22) Nagulfa",
