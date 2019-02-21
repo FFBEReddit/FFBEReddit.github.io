@@ -607,6 +607,7 @@ flair.names = {
 	"8211 glex 8211": "(Christmas 2018) Felix",
 	"8218 glex 8218": "(Chinese New Year 2019) Qin",
 	"8226 glex 8226": "(Chinese New Year 2019) Bai Hu & Zhu Que",
+	"8190 glex 8190": "(Fan Contest 2017) Myra",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
