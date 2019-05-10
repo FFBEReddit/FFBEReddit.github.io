@@ -439,6 +439,7 @@ flair.names = {
 	"1604 ff 1604": "(FF15) CG Noctis",
 	"1607 ff 1607": "(FF15) Gentiana",
 	"1613 ff 1613": "(FF15) Kenny Crow",
+	"1610 ff 1610": "(FF15) Lunafreya",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
@@ -630,6 +631,7 @@ flair.names = {
 	"8190 glex 8190": "(Fan Contest 2017) Myra",
 	"8229 glex 8229": "(Easter 2019) Esther",
 	"8232 glex 8232": "(Easter 2019) Sylvie",
+	"8253 glex 8253": "(SE#23) Zeno of the Beta Star",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
