@@ -267,6 +267,9 @@ flair.names = {
 	"1592 be 1592": "(SE#31) Skulltio",
 	"1595 be 1595": "(SE#31) Sister",
 	"1601 be 1601": "(SQEX Cafe 2019) Cafe Charlotte",
+	"1619 be 1619": "(SE#32) Madam Edel",
+	"1622 be 1622": "(SE#32) Almers",
+	"1625 be 1625": "(SE#32) Winkle",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
