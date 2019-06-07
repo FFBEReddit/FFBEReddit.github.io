@@ -270,6 +270,10 @@ flair.names = {
 	"1619 be 1619": "(SE#32) Madam Edel",
 	"1622 be 1622": "(SE#32) Almers",
 	"1625 be 1625": "(SE#32) Winkle",
+	"1639 be 1639": "(Season 3) Blue Mage Fina",
+	"1654 be 1654": "(SE#33) Elnath",
+	"1657 be 1657": "(SE#33) Alde",
+	"1660 be 1660": "(SE#33) Timorus",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
@@ -443,6 +447,12 @@ flair.names = {
 	"1607 ff 1607": "(FF15) Gentiana",
 	"1613 ff 1613": "(FF15) Kenny Crow",
 	"1610 ff 1610": "(FF15) Lunafreya",
+	"1633 ff 1633": "(FF15) Ardyn",
+	"1636 ff 1636": "(FF15) Regis",
+	"1642 ff 1642": "(FF4) Paladin Cecil",
+	"1645 ff 1645": "(FF4) Palom & Porom",
+	"1648 ff 1648": "(FF4) Cid",
+	"1651 ff 1651": "(FF4) White Mage Rosa",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
