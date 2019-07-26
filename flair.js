@@ -41,7 +41,7 @@ flair.load__by_id = function() {
 flair.by_id = {}
 flair.names = {
 /* [FFBE Original (be)] */
-/*	"001 be 001": "Rain",
+	"001 be 001": "Rain",
 	"005 be 005": "Lasswell",
 	"009 be 009": "Fina",
 	"013 be 013": "(Disabled) Rizer",
@@ -277,9 +277,9 @@ flair.names = {
 	"1693 be 1693": "(SE#34) Sakura of the Delta Star",
 	"1696 be 1696": "(SE#34) Nichol of the Epsilon Star",
 	"1699 be 1699": "(SE#34) Calland",
-*/	"1702 be 1702": "(SE#34) Caroline",
+	"1702 be 1702": "(SE#34) Caroline",
 /* [Final Fantasy (ff)] */
-/*	"029 ff 029": "(FF6) Wedge",
+	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
 	"033 ff 033": "(FF2) Paul",
 	"037 ff 037": "(FF12) Anastasis",
@@ -462,9 +462,9 @@ flair.names = {
 	"1681 ff 1681": "(FF9) Black Mage Vivi",
 	"1684 ff 1684": "(FF9) Fratley",
 	"1687 ff 1687": "(FF9) Zorn & Thorn",
-*/	"1690 ff 1690": "(FF9) Quina",
+	"1690 ff 1690": "(FF9) Quina",
 /* [Final Fantasy Spin-offs (spoff)] */
-/*	"259 spoff 259": "(FFT) Ramza",
+	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
 	"263 spoff 263": "(FFT) Agrias",
 	"265 spoff 265": "(FFT) Alma",
@@ -496,9 +496,9 @@ flair.names = {
 	"1276 spoff 1276": "(FFT) Reis",
 	"1279 spoff 1279": "(FFT) Contrust 8/Worker-8/C8",
 	"1669 spoff 1669": "(FFIVTAY) Ceodore",
-*/	"1672 spoff 1672": "(FFIVTAY) Ursula",
+	"1672 spoff 1672": "(FFIVTAY) Ursula",
 /* [Collaborations (collab)] */
-/*	"212 collab 212": "(Terra Battle) Samatha",
+	"212 collab 212": "(Terra Battle) Samatha",
 	"243 collab 243": "(Imperial Saga) Adel",
 	"245 collab 245": "(Brave Frontier) Karl",
 	"247 collab 247": "(Brave Frontier) Seria",
@@ -596,9 +596,9 @@ flair.names = {
 	"1666 collab 1666": "(Seiken Densetsu 3) Angela",
 	"1705 collab 1705": "(Valkyrie Profile) Lezard Valeth",
 	"1708 collab 1708": "(Valkyrie Profile) Mystina",
-*/	"1711 collab 1711": "(Valkyrie Profile) Aelia",
+	"1711 collab 1711": "(Valkyrie Profile) Aelia",
 /* [Global Exclusives (glex)] */
-/*	"678 glex 678": "Dangerous Ariana",
+	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
 	"895 glex 895": "Ling",
 	"898 glex 898": "Xon",
@@ -664,12 +664,12 @@ flair.names = {
 	"8253 glex 8253": "(SE#23) Zeno of the Beta Star",
 	"8235 glex 8235": "(Empress of Virtue) Morgana",
 	"8256 glex 8256": "(Empress of Virtue) Elena",
-*/	"8259 glex 8259": "(Bomb Rush) Rivera",
+	"8259 glex 8259": "(Bomb Rush) Rivera",
 /* [Others (other)] */
-/*	"ms01 other ms01": "King Gil Snapper",
+	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
 	"ms03 other ms03": "Cactuar",
 	"ms04 other ms04": "Metal Gigantuar",
 	"ms05 other ms05": "Moogle",
 	"ms06 other ms06": "Goblin",
-*/};
+};
