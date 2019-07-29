@@ -176,5 +176,7 @@ flair.names = {
 	"8253 glex 8253": "(SE#23) Zeno of the Beta Star",
 	"ms04 other ms04": "Metal Gigantuar",
 	"ms05 other ms05": "Moogle",
+/*Temp|Extra Room*/
+	"1156 collab 1156": "(Seiken Densetsu 2) Rabbie",
 	"230 ff 230": "(FF9) Garnet",
 };
