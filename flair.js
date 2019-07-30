@@ -172,6 +172,8 @@ flair.names = {
 	"8184 glex 8184": "(Fan Contest 2017) Malphasie",
 	"8193 glex 8193": "(Fan Contest 2017) Ellesperis",
 	"8196 glex 8196": "(Fan Contest 2017) Beryl",
+	"8187 glex 8187": "(Fan Contest 2017) Circe",
+	"8190 glex 8190": "(Fan Contest 2017) Myra",
 	"8229 glex 8229": "(Easter 2019) Esther",
 	"8253 glex 8253": "(SE#23) Zeno of the Beta Star",
 	"ms04 other ms04": "Metal Gigantuar",
