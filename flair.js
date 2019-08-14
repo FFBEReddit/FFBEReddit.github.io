@@ -124,6 +124,10 @@ flair.names = {
 	"1720 ff 1720": "(FF10) Yunalesca",
 	"1723 ff 1723": "(FF10) Isaaru",
 	"1726 ff 1726": "(FF10) Kimahri",
+/*Japan: 8-14*/
+	"1741 ff 1741": "(FFX-2) Yuna",
+	"1744 ff 1744": "(FFX-2) Rikku",
+	"1747 ff 1747": "(FFX-2) Paine",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
