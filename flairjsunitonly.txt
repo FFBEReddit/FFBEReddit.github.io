@@ -460,6 +460,9 @@
 	"1279 spoff 1279": "(FFT) Contrust 8/Worker-8/C8",
 	"1669 spoff 1669": "(FFIVTAY) Ceodore",
 	"1672 spoff 1672": "(FFIVTAY) Ursula",
+	"1741 ff 1741": "(FFX-2) Yuna",
+	"1744 ff 1744": "(FFX-2) Rikku",
+	"1747 ff 1747": "(FFX-2) Paine",
 /* [Collaborations (collab)] */
 	"212 collab 212": "(Terra Battle) Samatha",
 	"243 collab 243": "(Imperial Saga) Adel",
