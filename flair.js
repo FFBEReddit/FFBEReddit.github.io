@@ -77,6 +77,9 @@ flair.names = {
 /*Global: 8-15*/
 	"1445 ff 1445": "(FF13) CG Lightning",
 	"1448 ff 1448": "(FF13) Future Hope",
+/*Global: 8-30*/
+	"8238 be 8238": "(Demon Parade) Tsukiko",
+	"8262 be 8262": "(Demon Parade) Kaito",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
@@ -124,7 +127,7 @@ flair.names = {
 	"1720 ff 1720": "(FF10) Yunalesca",
 	"1723 ff 1723": "(FF10) Isaaru",
 	"1726 ff 1726": "(FF10) Kimahri",
-/*Japan: 8-14*/
+/*Japan: 8-22*/
 	"1741 ff 1741": "(FFX-2) Yuna",
 	"1744 ff 1744": "(FFX-2) Rikku",
 	"1747 ff 1747": "(FFX-2) Paine",
