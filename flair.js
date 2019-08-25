@@ -131,6 +131,9 @@ flair.names = {
 	"1741 ff 1741": "(FFX-2) Yuna",
 	"1744 ff 1744": "(FFX-2) Rikku",
 	"1747 ff 1747": "(FFX-2) Paine",
+/*Japan: 8-31*/
+	"1750 collab 1750": "(Kingdom Hearts) Riku",
+	"1753 collab 1753": "(Kingdom Hearts) Sephiroth",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
