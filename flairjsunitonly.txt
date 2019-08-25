@@ -563,6 +563,8 @@
 	"1705 collab 1705": "(Valkyrie Profile) Lezard Valeth",
 	"1708 collab 1708": "(Valkyrie Profile) Mystina",
 	"1711 collab 1711": "(Valkyrie Profile) Aelia",
+	"1750 collab 1750": "(Kingdom Hearts) Riku",
+	"1753 collab 1753": "(Kingdom Hearts) Sephiroth",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
