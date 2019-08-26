@@ -80,6 +80,11 @@ flair.names = {
 /*Global: 8-30*/
 	"8238 be 8238": "(Demon Parade) Tsukiko",
 	"8262 be 8262": "(Demon Parade) Kaito",
+/*Global: 9-13*/
+	"1481 ff 1481": "(FF5) CG Warrior of Light Bartz",
+	"1484 ff 1484": "(FF5) Warrior of Light Lenna",
+	"1487 be 1487": "Atlie",
+	"1490 be 1490": "Tessen",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
