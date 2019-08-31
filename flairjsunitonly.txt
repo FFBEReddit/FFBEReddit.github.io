@@ -565,6 +565,13 @@
 	"1711 collab 1711": "(Valkyrie Profile) Aelia",
 	"1750 collab 1750": "(Kingdom Hearts) Riku",
 	"1753 collab 1753": "(Kingdom Hearts) Sephiroth",
+	"1756 collab 1756": "(DQXI S) Mordegon",
+	"1759 collab 1759": "(DQXI S) Jasper Unbound",
+	"1762 collab 1762": "(DQXI S) Great Dragon",
+	"1765 collab 1765": "(DQXI S) Luminary",
+	"1768 collab 1768": "(DQXI S) Veronica",
+	"1771 collab 1771": "(DQXI S) Serena",
+	"1774 collab 1774": "(DQXI S) Erik",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
