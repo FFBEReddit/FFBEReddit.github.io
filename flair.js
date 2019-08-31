@@ -139,6 +139,14 @@ flair.names = {
 /*Japan: 8-31*/
 	"1750 collab 1750": "(Kingdom Hearts) Riku",
 	"1753 collab 1753": "(Kingdom Hearts) Sephiroth",
+/*Japan: 9-20*/
+	"1756 collab 1756": "(DQXI S) Mordegon",
+	"1759 collab 1759": "(DQXI S) Jasper Unbound",
+	"1762 collab 1762": "(DQXI S) Great Dragon",
+	"1765 collab 1765": "(DQXI S) Luminary",
+	"1768 collab 1768": "(DQXI S) Veronica",
+	"1771 collab 1771": "(DQXI S) Serena",
+	"1774 collab 1774": "(DQXI S) Erik",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
