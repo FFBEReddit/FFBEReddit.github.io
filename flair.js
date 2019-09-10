@@ -85,6 +85,11 @@ flair.names = {
 	"1484 ff 1484": "(FF5) Warrior of Light Lenna",
 	"1487 be 1487": "Atlie",
 	"1490 be 1490": "Tessen",
+/*Global: 9-27*/
+	"1460 be 1460": "(SE#27) Sol",
+	"1463 be 1463": "(SE#27) Heliarc",
+	"1466 be 1466": "(SE#27) Eclipsa",
+	"1469 be 1469": "(SE#27) Pertira",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
