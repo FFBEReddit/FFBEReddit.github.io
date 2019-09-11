@@ -152,6 +152,12 @@ flair.names = {
 	"1768 collab 1768": "(DQXI S) Veronica",
 	"1771 collab 1771": "(DQXI S) Serena",
 	"1774 collab 1774": "(DQXI S) Erik",
+/*Japan: 9-23*/
+	"1780 collab 1780": "(SINoALICE) Alice",
+	"1783 collab 1783": "(SINoALICE) Snow White",
+	"1786 collab 1786": "(SINoALICE) Gretel",
+/*Japan: 9-??*/
+	"1777 collab 1777": "(SE#36) ジャン＝ピニヨン",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
