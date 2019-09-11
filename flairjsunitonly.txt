@@ -236,6 +236,7 @@
 	"1696 be 1696": "(SE#34) Nichol of the Epsilon Star",
 	"1699 be 1699": "(SE#34) Calland",
 	"1702 be 1702": "(SE#34) Caroline",
+	"1777 be 1777": "(SE#36) ジャン＝ピニヨン",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
@@ -572,6 +573,9 @@
 	"1768 collab 1768": "(DQXI S) Veronica",
 	"1771 collab 1771": "(DQXI S) Serena",
 	"1774 collab 1774": "(DQXI S) Erik",
+	"1780 collab 1780": "(SINoALICE) Alice",
+	"1783 collab 1783": "(SINoALICE) Snow White",
+	"1786 collab 1786": "(SINoALICE) Gretel",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
