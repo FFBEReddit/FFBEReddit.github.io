@@ -157,7 +157,7 @@ flair.names = {
 	"1783 collab 1783": "(SINoALICE) Snow White",
 	"1786 collab 1786": "(SINoALICE) Gretel",
 /*Japan: 9-??*/
-	"1777 collab 1777": "(SE#36) ジャン＝ピニヨン",
+	"1777 be 1777": "(SE#36) ジャン＝ピニヨン",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
