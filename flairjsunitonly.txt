@@ -648,7 +648,7 @@
 	"8256 glex 8256": "(Empress of Virtue) Elena",
 	"8259 glex 8259": "(Bomb Rush) Rivera",
 	"8247 glex 8247": "(Katy Perry) A.I. Katy",
-	"8260 glex 8260": "(Katy Perry) Lovely Katy",
+	"8250 glex 8250": "(Katy Perry) Lovely Katy",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
