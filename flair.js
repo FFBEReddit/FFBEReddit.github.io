@@ -90,6 +90,9 @@ flair.names = {
 	"1463 be 1463": "(SE#27) Heliarc",
 	"1466 be 1466": "(SE#27) Eclipsa",
 	"1469 be 1469": "(SE#27) Pertira",
+/*Global: 9-30*/
+	"8247 glex 8247": "(Katy Perry) A.I. Katy",
+	"8250 glex 8250": "(Katy Perry) Lovely Katy",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
@@ -156,8 +159,12 @@ flair.names = {
 	"1780 collab 1780": "(SINoALICE) Alice",
 	"1783 collab 1783": "(SINoALICE) Snow White",
 	"1786 collab 1786": "(SINoALICE) Gretel",
-/*Japan: 9-??*/
-	"1777 be 1777": "(SE#36) ジャン＝ピニヨン",
+/*Japan: 9-23*/
+	"1777 be 1777": "(SE#36) Jean-Pignon",
+/*Japan: 9-30*/
+	"1789 ff 1789": "(FF11) CG Shantotto",
+	"1792 ff 1792": "(FF11) Lilisette",
+	"1795 ff 1795": "(FF11) Zeid",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
