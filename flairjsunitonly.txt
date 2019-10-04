@@ -237,6 +237,10 @@
 	"1699 be 1699": "(SE#34) Calland",
 	"1702 be 1702": "(SE#34) Caroline",
 	"1777 be 1777": "(SE#36) ジャン＝ピニヨン",
+	"1801 be 1801": "(4th Anniversary) Ifrit Rain",
+	"1804 be 1804": "(4th Anniversary) Bahamut Fina",
+	"1807 be 1807": "(4th Anniversary) Diabolos Sol",
+	"1810 be 1810": "(4th Anniversary) Asura Akstar",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
