@@ -93,6 +93,9 @@ flair.names = {
 /*Global: 9-30*/
 	"8247 glex 8247": "(Katy Perry) A.I. Katy",
 	"8250 glex 8250": "(Katy Perry) Lovely Katy",
+/*Global: 10-18*/
+	"1535 ff 1535": "(FF2) Wild Rose Firion",
+	"1538 ff 1538": "(FF2) Dark Knight Leon",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
@@ -165,6 +168,11 @@ flair.names = {
 	"1789 ff 1789": "(FF11) CG Shantotto",
 	"1792 ff 1792": "(FF11) Lilisette",
 	"1795 ff 1795": "(FF11) Zeid",
+/*Japan: 10-13*/
+	"1801 be 1801": "(4th Anniversary) Ifrit Rain",
+	"1804 be 1804": "(4th Anniversary) Bahamut Fina",
+	"1807 be 1807": "(4th Anniversary) Diabolos Sol",
+	"1810 be 1810": "(4th Anniversary) Asura Akstar",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
