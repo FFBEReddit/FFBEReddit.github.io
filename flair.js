@@ -96,6 +96,11 @@ flair.names = {
 /*Global: 10-18*/
 	"1535 ff 1535": "(FF2) Wild Rose Firion",
 	"1538 ff 1538": "(FF2) Dark Knight Leon",
+/*Global: 10-30*/
+	"1493 be 1493": "(3rd Anni) Chocobo Fina",
+	"1472 ff 1472": "(FF5) Warrior of Light Krile",
+	"1475 ff 1475": "(FF5) Dark Mage Exdeath",
+	"1478 ff 1478": "(FF5) Warrior of Dawn Galuf",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
@@ -173,6 +178,15 @@ flair.names = {
 	"1804 be 1804": "(4th Anniversary) Bahamut Fina",
 	"1807 be 1807": "(4th Anniversary) Diabolos Sol",
 	"1810 be 1810": "(4th Anniversary) Asura Akstar",
+/*Japan: 10-25*/
+	"1813 be 1813": "(4th Anniversary/SE#37) Alexander Charlotte",
+	"1816 be 1816": "(4th Anniversary/SE#37) Shiva Lasswell",
+	"1819 be 1819": "(4th Anniversary/SE#37) Odin Raegen",
+	"1822 be 1822": "(4th Anniversary) Fenrir Edel",
+	"1825 be 1825": "(4th Anniversary/SE#37) Tetra Sylphid Physalis",
+	"1831 be 1831": "(4th Anniversary) Thanksgiving Moogle",
+	"1834 be 1834": "(4th Anniversary) Anniversary Moogle",
+	"1828 be 1828": "(Family Mart) FamilyMart Physalis",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
