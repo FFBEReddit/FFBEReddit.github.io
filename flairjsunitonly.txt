@@ -590,7 +590,7 @@
 	"1780 collab 1780": "(SINoALICE) Alice",
 	"1783 collab 1783": "(SINoALICE) Snow White",
 	"1786 collab 1786": "(SINoALICE) Gretel",
-	"1828 be 1828": "(Family Mart) FamilyMart Physalis",
+	"1828 collab 1828": "(Family Mart) FamilyMart Physalis",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
