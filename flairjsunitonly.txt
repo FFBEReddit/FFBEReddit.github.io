@@ -591,6 +591,10 @@
 	"1783 collab 1783": "(SINoALICE) Snow White",
 	"1786 collab 1786": "(SINoALICE) Gretel",
 	"1828 collab 1828": "(Family Mart) FamilyMart Physalis",
+	"1837 collab 1837": "(DQXI S) Lord of Shadows",
+	"1840 collab 1840": "(DQXI S) Jade",
+	"1843 collab 1843": "(DQXI S) Sylvando",
+	"1846 collab 1846": "(DQXI S) Rab",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
