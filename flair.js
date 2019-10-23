@@ -187,6 +187,11 @@ flair.names = {
 	"1831 be 1831": "(4th Anniversary) Thanksgiving Moogle",
 	"1834 be 1834": "(4th Anniversary) Anniversary Moogle",
 	"1828 be 1828": "(Family Mart) FamilyMart Physalis",
+/*Japan: 10-31*/
+	"1837 collab 1837": "(DQXI S #2) Lord of Shadows",
+	"1840 collab 1840": "(DQXI S #2) Jade",
+	"1843 collab 1843": "(DQXI S #2) Sylvando",
+	"1846 collab 1846": "(DQXI S #2) Rab",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
