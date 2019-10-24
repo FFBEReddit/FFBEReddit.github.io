@@ -101,6 +101,19 @@ flair.names = {
 	"1472 ff 1472": "(FF5) Warrior of Light Krile",
 	"1475 ff 1475": "(FF5) Dark Mage Exdeath",
 	"1478 ff 1478": "(FF5) Warrior of Dawn Galuf",
+/*Global: 11/6*/
+	"8241 glex 8241": "(Halloween 2019) Karten",
+	"8268 glex 8268": "(Halloween 2019) Godrea",
+/*Halloween*/
+	"8000 glex 8000": "(Halloween 2016) Demon Rain",
+	"8003 glex 8003": "(Halloween 2016) Dracu Lasswell",
+	"8006 glex 8006": "(Halloween 2016) White Witch Fina",
+	"8009 glex 8009": "(Halloween 2016) Black Cat Lid",
+	"8082 glex 8082": "(Halloween 2017) Grim Lord Sakura",
+	"8085 glex 8085": "(Halloween 2017) Illusionist Nichol",
+	"8088 glex 8088": "(Halloween 2017) Pirate Jake",
+	"8199 glex 8199": "(Halloween 2018) Lilith",
+	"8202 glex 8202": "(Halloween 2018) Lucius",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
