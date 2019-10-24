@@ -665,6 +665,8 @@
 	"8259 glex 8259": "(Bomb Rush) Rivera",
 	"8247 glex 8247": "(Katy Perry) A.I. Katy",
 	"8250 glex 8250": "(Katy Perry) Lovely Katy",
+	"8241 glex 8241": "(Halloween 2019) Karten",
+	"8268 glex 8268": "(Halloween 2019) Godrea",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
