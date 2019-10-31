@@ -114,6 +114,9 @@ flair.names = {
 	"8088 glex 8088": "(Halloween 2017) Pirate Jake",
 	"8199 glex 8199": "(Halloween 2018) Lilith",
 	"8202 glex 8202": "(Halloween 2018) Lucius",
+/*Global: 11/13*/
+	"1529 ff 1529": "(FF6) Assassin Shadow",
+	"1532 ff 1532": "(FF6) Archmage Kefka",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
@@ -205,6 +208,11 @@ flair.names = {
 	"1840 collab 1840": "(DQXI S #2) Jade",
 	"1843 collab 1843": "(DQXI S #2) Sylvando",
 	"1846 collab 1846": "(DQXI S #2) Rab",
+/*Japan: 11-15*/
+	"1849 ff 1849": "(FFVII AC) CG Cloud",
+	"1852 ff 1852": "(FFVII AC) Tifa",
+	"1855 ff 1855": "(FFVII AC) Yazoo & Loz",
+	"1858 ff 1858": "(FFVII AC) Kadaj",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
