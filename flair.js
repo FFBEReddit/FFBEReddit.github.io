@@ -209,10 +209,10 @@ flair.names = {
 	"1843 collab 1843": "(DQXI S #2) Sylvando",
 	"1846 collab 1846": "(DQXI S #2) Rab",
 /*Japan: 11-15*/
-	"1849 ff 1849": "(FFVII AC) CG Cloud",
-	"1852 ff 1852": "(FFVII AC) Tifa",
-	"1855 ff 1855": "(FFVII AC) Yazoo & Loz",
-	"1858 ff 1858": "(FFVII AC) Kadaj",
+	"1849 ff 1849": "(FF7 AC) CG Cloud",
+	"1852 ff 1852": "(FF7 AC) Tifa",
+	"1855 ff 1855": "(FF7 AC) Yazoo & Loz",
+	"1858 ff 1858": "(FF7 AC) Kadaj",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
