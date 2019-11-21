@@ -213,6 +213,12 @@ flair.names = {
 	"1852 ff 1852": "(FF7 AC) Tifa",
 	"1855 ff 1855": "(FF7 AC) Yazoo & Loz",
 	"1858 ff 1858": "(FF7 AC) Kadaj",
+/*Japan: 11-30*/
+	"1867 collab 1867": "(Full Metal Alchemist) Edward Elric",
+	"1870 collab 1870": "(Full Metal Alchemist) Alphonse Elric",
+	"1873 collab 1873": "(Full Metal Alchemist) Roy Mustang",
+	"1876 collab 1876": "(Full Metal Alchemist) Riza Hawkeye",
+	"1879 collab 1879": "(Full Metal Alchemist) Winry Rockbell",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
