@@ -599,6 +599,11 @@
 	"1840 collab 1840": "(DQXI S) Jade",
 	"1843 collab 1843": "(DQXI S) Sylvando",
 	"1846 collab 1846": "(DQXI S) Rab",
+	"1867 collab 1867": "(Full Metal Alchemist) Edward Elric",
+	"1870 collab 1870": "(Full Metal Alchemist) Alphonse Elric",
+	"1873 collab 1873": "(Full Metal Alchemist) Roy Mustang",
+	"1876 collab 1876": "(Full Metal Alchemist) Riza Hawkeye",
+	"1879 collab 1879": "(Full Metal Alchemist) Winry Rockbell",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
