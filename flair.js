@@ -118,7 +118,7 @@ flair.names = {
 	"1529 ff 1529": "(FF6) Assassin Shadow",
 	"1532 ff 1532": "(FF6) Archmage Kefka",
 /*Global: 11/20*/
-	"1556 be 1556": "(SE#30) Aldore King Rain",
+	"1559 be 1559": "(SE#30) Aldore King Rain",
 	"1562 be 1562": "(SE#30) Diezell",
 	"1565 be 1565": "(SE#30) Maisie",
 /*========================*/
