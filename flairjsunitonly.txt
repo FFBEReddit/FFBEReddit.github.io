@@ -215,7 +215,7 @@
 	"1544 be 1544": "(Valentine's Day 2019) Sweet Nichol",
 	"1547 be 1547": "(Valentine's Day 2019) Sweet Luka",
 	"1556 be 1556": "(OST 2019) シャンティレーナ",
-	"1556 be 1556": "(SE#30/Fest#2) CG Rain",
+	"1559 be 1559": "(SE#30/Fest#2) Aldore King Rain",
 	"1562 be 1562": "(SE#30) Diesel",
 	"1565 be 1565": "(SE#30) Meiji",
 	"1568 be 1568": "Fina & Dark Fina",
