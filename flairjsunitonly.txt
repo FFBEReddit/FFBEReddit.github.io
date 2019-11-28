@@ -676,6 +676,10 @@
 	"8250 glex 8250": "(Katy Perry) Lovely Katy",
 	"8241 glex 8241": "(Halloween 2019) Karten",
 	"8268 glex 8268": "(Halloween 2019) Godrea",
+	"8271 glex 8271": "(Black Friday) Doctor Aiden",
+	"8280 glex 8280": "(Black Friday) Operative Zyrus",
+	"8274 glex 8274": "(Black Friday) Agent Olive",
+	"8277 glex 8277": "(Black Friday) Mastermind Xon",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
