@@ -121,6 +121,11 @@ flair.names = {
 	"1559 be 1559": "(SE#30) Aldore King Rain",
 	"1562 be 1562": "(SE#30) Diezell",
 	"1565 be 1565": "(SE#30) Maisie",
+/*Global: 12/11*/
+	"8271 glex 8271": "(Black Friday) Doctor Aiden",
+	"8280 glex 8280": "(Black Friday) Operative Zyrus",
+	"8274 glex 8274": "(Black Friday) Agent Olive",
+	"8277 glex 8277": "(Black Friday) Mastermind Xon",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
