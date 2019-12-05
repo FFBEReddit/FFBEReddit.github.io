@@ -126,6 +126,10 @@ flair.names = {
 	"8280 glex 8280": "(Black Friday) Operative Zyrus",
 	"8274 glex 8274": "(Black Friday) Agent Olive",
 	"8277 glex 8277": "(Black Friday) Mastermind Xon",
+/*Global: 12/18*/
+	"1496 be 1496": "(SE#28) Physalis",
+	"1499 be 1499": "(SE#28) Juraga of the Nu Star",
+	"1502 be 1502": "(SE#28) Gudon of the Xi Star",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
