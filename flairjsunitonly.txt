@@ -248,6 +248,8 @@
 	"1825 be 1825": "(4th Anniversary/SE#37) Tetra Sylphid Physalis",
 	"1831 be 1831": "(4th Anniversary) Thanksgiving Moogle",
 	"1834 be 1834": "(4th Anniversary) Anniversary Moogle",
+	"1894 be 1894": "(Xmas 2019) Christmas Ayaka",
+	"1897 be 1897": "(Xmas 2019) Santa Lotti",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
