@@ -67,8 +67,8 @@ flair.names = {
 	"1434 be 1434": "Kimono Ayaka",
 	"1437 be 1437": "Dress up Aileen",
 /*Global: 8-1*/
-	"8235 glex 8235": "(Empress of Virtue) Morgana",
-	"8256 glex 8256": "(Empress of Virtue) Elena",
+	"8235 glex 8235": "(Empress of Virtue/SE#38) Morgana",
+	"8256 glex 8256": "(Empress of Virtue/SE#38) Elena",
 /*Global: 8-8*/
 	"8259 glex 8259": "(Bomb Rush) Rivera",
 	"1361 be 1361": "CG Summer Fina & Lid 2018",
@@ -240,6 +240,10 @@ flair.names = {
 /*Japan: 12-26*/
 	"1894 be 1894": "(Xmas 2019) Christmas Ayaka",
 	"1897 be 1897": "(Xmas 2019) Santa Lotti",
+/*Japan: 12-20*/
+	"1900 be 1900": "(SE#39) Daisy",
+	"1903 be 1903": "(SE#39) Milietta",
+	"1906 be 1906": "(SE#39) Cocotto",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
