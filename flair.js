@@ -130,6 +130,11 @@ flair.names = {
 	"1496 be 1496": "(SE#28) Physalis",
 	"1499 be 1499": "(SE#28) Juraga of the Nu Star",
 	"1502 be 1502": "(SE#28) Gudon of the Xi Star",
+/*Global: 12/25*/
+	"1604 ff 1604": "(FF15) Crown Prince Noctis",
+	"1610 ff 1610": "(FF15) Lunafreya",
+	"1607 ff 1607": "(FF15) Gentiana",
+	"1613 ff 1613": "(FF15) Kenny Crow",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
