@@ -613,6 +613,7 @@
 	"1873 collab 1873": "(Full Metal Alchemist) Roy Mustang",
 	"1876 collab 1876": "(Full Metal Alchemist) Riza Hawkeye",
 	"1879 collab 1879": "(Full Metal Alchemist) Winry Rockbell",
+	"1909 collab 1909": "(War of the Visions) Gilgamesh",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
