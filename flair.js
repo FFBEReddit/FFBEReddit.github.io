@@ -249,6 +249,8 @@ flair.names = {
 	"1900 be 1900": "(SE#39) Daisy",
 	"1903 be 1903": "(SE#39) Milietta",
 	"1906 be 1906": "(SE#39) Cocotto",
+/*Japan: 12-26*/
+	"1909 collab 1909": "(War of the Visions) Gilgamesh",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
