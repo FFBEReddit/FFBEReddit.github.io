@@ -135,6 +135,16 @@ flair.names = {
 	"1610 ff 1610": "(FF15) Lunafreya",
 	"1607 ff 1607": "(FF15) Gentiana",
 	"1613 ff 1613": "(FF15) Kenny Crow",
+/*Global: 1/1/20*/
+	"1511 be 1511": "(Christmas 2018) Holy Night Amelia & Emilia",
+	"1047 glex 1047": "(Christmas 2016) Santa Roselia",
+	"8015 glex 8015": "(Christmas 2016) White Knight Noel",
+	"8109 glex 8109": "(Christmas 2017) Kryla",
+	"8112 glex 8112": "(Christmas 2017) Tinkerer Carrie",
+	"8208 glex 8208": "(Christmas 2018) Tiana",
+	"8211 glex 8211": "(Christmas 2018) Felix",
+	"8283 glex 8283": "(Christmas 2019) Lucas",
+	"8286 glex 8286": "(Christmas 2019) Levinson",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
