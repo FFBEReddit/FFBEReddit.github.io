@@ -625,7 +625,7 @@
 	"8003 glex 8003": "(Halloween 2016) Dracu Lasswell",
 	"8006 glex 8006": "(Halloween 2016) White Witch Fina",
 	"8009 glex 8009": "(Halloween 2016) Black Cat Lid",
-	"8015 glex 8015": "(Christmas) White Knight Noel",
+	"8015 glex 8015": "(Christmas 2016) White Knight Noel",
 	"8026 glex 8026": "(Lunar New Year) Yun",
 	"8033 glex 8033": "Cupid Artemios",
 	"8036 glex 8036": "Cupid Luna",
@@ -690,6 +690,8 @@
 	"8280 glex 8280": "(Black Friday) Operative Zyrus",
 	"8274 glex 8274": "(Black Friday) Agent Olive",
 	"8277 glex 8277": "(Black Friday) Mastermind Xon",
+	"8283 glex 8283": "(Christmas 2019) Lucas",
+	"8286 glex 8286": "(Christmas 2019) Levinson",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
