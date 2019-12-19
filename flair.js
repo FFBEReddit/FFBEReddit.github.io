@@ -253,8 +253,8 @@ flair.names = {
 	"1888 ff 1888": "(FFXIII-2) Hope",
 	"1891 ff 1891": "(FFXIII-2) Lightning",
 /*Japan: 12-26*/
-	"1894 be 1894": "(Xmas 2019) Christmas Ayaka",
-	"1897 be 1897": "(Xmas 2019) Santa Lotti",
+	"1894 be 1894": "(JP Christmas 2019) Christmas Ayaka",
+	"1897 be 1897": "(JP Christmas 2019) Santa Lotti",
 /*Japan: 12-20*/
 	"1900 be 1900": "(SE#39) Daisy",
 	"1903 be 1903": "(SE#39) Milietta",
