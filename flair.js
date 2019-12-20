@@ -261,6 +261,9 @@ flair.names = {
 	"1906 be 1906": "(SE#39) Cocotto",
 /*Japan: 12-26*/
 	"1909 collab 1909": "(War of the Visions) Gilgamesh",
+/*Japan: 12-31*/
+	"1912 ff 1912": "(FFXIII) Hecatoncheir Vanille",
+	"1915 ff 1915": "(FFXIII) Bahamut Fang",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
