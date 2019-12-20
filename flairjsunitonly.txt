@@ -454,6 +454,8 @@
 	"1885 ff 1885": "(FFXIII-2) Noel",
 	"1888 ff 1888": "(FFXIII-2) Hope",
 	"1891 ff 1891": "(FFXIII-2) Lightning",
+	"1912 ff 1912": "(FFXIII) Hecatoncheir Vanille",
+	"1915 ff 1915": "(FFXIII) Bahamut Fang",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
