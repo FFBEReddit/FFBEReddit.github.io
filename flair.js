@@ -193,9 +193,9 @@ flair.names = {
 	"1723 ff 1723": "(FF10) Isaaru",
 	"1726 ff 1726": "(FF10) Kimahri",
 /*Japan: 8-22*/
-	"1741 ff 1741": "(FFX-2) Yuna",
-	"1744 ff 1744": "(FFX-2) Rikku",
-	"1747 ff 1747": "(FFX-2) Paine",
+	"1741 ff 1741": "(FF10-2) Yuna",
+	"1744 ff 1744": "(FF10-2) Rikku",
+	"1747 ff 1747": "(FF10-2) Paine",
 /*Japan: 8-31*/
 	"1750 collab 1750": "(Kingdom Hearts) Riku",
 	"1753 collab 1753": "(Kingdom Hearts) Sephiroth",
@@ -248,10 +248,10 @@ flair.names = {
 	"1876 collab 1876": "(Full Metal Alchemist) Riza Hawkeye",
 	"1879 collab 1879": "(Full Metal Alchemist) Winry Rockbell",
 /*Japan: 12-15*/
-	"1882 ff 1882": "(FFXIII-2) Serah",
-	"1885 ff 1885": "(FFXIII-2) Noel",
-	"1888 ff 1888": "(FFXIII-2) Hope",
-	"1891 ff 1891": "(FFXIII-2) Lightning",
+	"1882 ff 1882": "(FF13-2) Serah",
+	"1885 ff 1885": "(FF13-2) Noel",
+	"1888 ff 1888": "(FF13-2) Hope",
+	"1891 ff 1891": "(FF13-2) Lightning",
 /*Japan: 12-26*/
 	"1894 be 1894": "(JP Christmas 2019) Christmas Ayaka",
 	"1897 be 1897": "(JP Christmas 2019) Santa Lotti",
@@ -262,8 +262,8 @@ flair.names = {
 /*Japan: 12-26*/
 	"1909 collab 1909": "(War of the Visions) Gilgamesh",
 /*Japan: 12-31*/
-	"1912 ff 1912": "(FFXIII) Hecatoncheir Vanille",
-	"1915 ff 1915": "(FFXIII) Bahamut Fang",
+	"1912 ff 1912": "(FF13) Hecatoncheir Vanille",
+	"1915 ff 1915": "(FF13) Bahamut Fang",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
