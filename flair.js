@@ -266,6 +266,11 @@ flair.names = {
 /*Japan: 12-31*/
 	"1912 ff 1912": "(FF13) Hecatoncheir Vanille",
 	"1915 ff 1915": "(FF13) Bahamut Fang",
+/*Japan: 1-15*/
+	"1918 ff 1918": "(FF8) CG Squall",
+	"1921 ff 1921": "(FF8) Seifer",
+	"1924 ff 1924": "(FF8) Fujin & Raijin",
+	"1927 ff 1927": "(FF8) Quitis",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
