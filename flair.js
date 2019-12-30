@@ -270,7 +270,7 @@ flair.names = {
 	"1918 ff 1918": "(FF8) CG Squall",
 	"1921 ff 1921": "(FF8) Seifer",
 	"1924 ff 1924": "(FF8) Fujin & Raijin",
-	"1927 ff 1927": "(FF8) Quitis",
+	"1927 ff 1927": "(FF8) Quistis",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
