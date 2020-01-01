@@ -147,6 +147,8 @@ flair.names = {
 	"8286 glex 8286": "(Christmas 2019) Levinson",
 /*Global: 1/8/20*/
 	"1541 be 1541": "(SE#29) CG White Lily Dark Fina",
+/*Global: 1/15/20*/
+	"1550 ff 1550": "(FF1) CG Warrior of Light",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
