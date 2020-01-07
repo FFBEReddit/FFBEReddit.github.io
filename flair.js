@@ -273,6 +273,8 @@ flair.names = {
 	"1921 ff 1921": "(FF8) Seifer",
 	"1924 ff 1924": "(FF8) Fujin & Raijin",
 	"1927 ff 1927": "(FF8) Quistis",
+/*Japan: 1-16*/
+	"1930 be 1930": "(New Year) Green Mage Marie (Rat)",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
