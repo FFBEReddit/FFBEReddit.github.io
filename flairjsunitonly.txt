@@ -254,6 +254,9 @@
 	"1903 be 1903": "(SE#39) Milietta",
 	"1906 be 1906": "(SE#39) Cocotto",
 	"1930 be 1930": "(New Year) Green Mage Marie (Rat)",
+	"1933 be 1933": "(SE#40) CG Kalmia",
+	"1936 be 1936": "(SE#40) Audrey",
+	"1939 be 1939": "(SE#40) Wallner",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
