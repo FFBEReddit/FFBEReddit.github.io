@@ -149,6 +149,11 @@ flair.names = {
 	"1541 be 1541": "(SE#29) CG White Lily Dark Fina",
 /*Global: 1/15/20*/
 	"1550 ff 1550": "(FF1) CG Warrior of Light",
+	"1553 ff 1553": "(FF1) Immortal Knight Garland",
+/*Global: 1/29/20*/
+	"1586 be 1586": "(SE#31) Hess King Lasswell",
+	"1592 be 1592": "(SE#31) Scartio",
+	"1595 be 1595": "(SE#31) Sister",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
