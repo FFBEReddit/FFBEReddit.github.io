@@ -284,6 +284,10 @@ flair.names = {
 	"1933 be 1933": "(SE#40) CG Kalmia",
 	"1936 be 1936": "(SE#40) Audrey",
 	"1939 be 1939": "(SE#40) Wallner",
+/*Japan: 1-31*/
+	"1942 ff 1942": "(FF8) Selphie",
+	"1945 ff 1945": "(FF8) Irvine",
+	"1948 ff 1948": "(FF8) Edea",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
