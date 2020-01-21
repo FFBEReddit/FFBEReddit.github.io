@@ -467,6 +467,9 @@
 	"1921 ff 1921": "(FF8) Seifer",
 	"1924 ff 1924": "(FF8) Fujin & Raijin",
 	"1927 ff 1927": "(FF8) Quistis",
+	"1942 ff 1942": "(FF8) Selphie",
+	"1945 ff 1945": "(FF8) Irvine",
+	"1948 ff 1948": "(FF8) Edea",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
