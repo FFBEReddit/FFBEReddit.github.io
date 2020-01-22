@@ -154,6 +154,13 @@ flair.names = {
 	"1586 be 1586": "(SE#31) Hess King Lasswell",
 	"1592 be 1592": "(SE#31) Scartio",
 	"1595 be 1595": "(SE#31) Sister",
+/*Global: 2/12/20*/
+	"895 glex 895": "Ling",
+	"8026 glex 8026": "Yun",
+	"8128 glex 8128": "Ang",
+	"8134 glex 8134": "Yan",
+	"8218 glex 8218": "Qin",
+	"8226 glex 8226": "Bai Hu & Zhu Que",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
