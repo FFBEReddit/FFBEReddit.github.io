@@ -161,8 +161,8 @@ flair.names = {
 	"8134 glex 8134": "Yan",
 	"8218 glex 8218": "Qin",
 	"8226 glex 8226": "Bai Hu & Zhu Que",
-	"8289 glex 8289": "Emperor Foo",
-	"8292 glex 8292": "Xuan Wu & Qing Long",
+	"8289 glex 8289": "(LNY2020) Emperor Foo",
+	"8292 glex 8292": "(LNY2020) Xuan Wu & Qing Long",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
