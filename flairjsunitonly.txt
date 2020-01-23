@@ -705,6 +705,8 @@
 	"8277 glex 8277": "(Black Friday) Mastermind Xon",
 	"8283 glex 8283": "(Christmas 2019) Lucas",
 	"8286 glex 8286": "(Christmas 2019) Levinson",
+	"8289 glex 8289": "(LNY2020) Emperor Foo",
+	"8292 glex 8292": "(LNY2020) Xuan Wu & Qing Long",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
