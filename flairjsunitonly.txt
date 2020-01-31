@@ -504,6 +504,10 @@
 	"1279 spoff 1279": "(FFT) Contrust 8/Worker-8/C8",
 	"1669 spoff 1669": "(FFIVTAY) Ceodore",
 	"1672 spoff 1672": "(FFIVTAY) Ursula",
+	"1951 spoff 1951": "(Type-0) CG Class Zero Ace",
+	"1954 spoff 1954": "(Type-0) Beloved Girl Rem",
+	"1957 spoff 1957": "(Type-0) Tenacious Warrior Machina",
+	"1960 spoff 1960": "(Type-0) Celestia",
 /* [Collaborations (collab)] */
 	"212 collab 212": "(Terra Battle) Samatha",
 	"243 collab 243": "(Imperial Saga) Adel",
