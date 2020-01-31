@@ -297,6 +297,11 @@ flair.names = {
 	"1942 ff 1942": "(FF8) Selphie",
 	"1945 ff 1945": "(FF8) Irvine",
 	"1948 ff 1948": "(FF8) Edea",
+/*Japan: 2-16*/
+	"1951 spoff 1951": "(Type-0) CG Class Zero Ace",
+	"1954 spoff 1954": "(Type-0) Beloved Girl Rem",
+	"1957 spoff 1957": "(Type-0) Tenacious Warrior Machina",
+	"1960 spoff 1960": "(Type-0) Celestia",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
