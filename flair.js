@@ -302,6 +302,11 @@ flair.names = {
 	"1954 spoff 1954": "(Type-0) Beloved Girl Rem",
 	"1957 spoff 1957": "(Type-0) Tenacious Warrior Machina",
 	"1960 spoff 1960": "(Type-0) Celestia",
+/*Japan: 2-20*/
+	"1963 be 1963": "(SE#41) CG Pone",
+	"1966 be 1966": "(SE#41) Luciano",
+	"1969 be 1969": "(SE#41) Pietro",
+	"1972 be 1972": "(SE#41) Dario",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
