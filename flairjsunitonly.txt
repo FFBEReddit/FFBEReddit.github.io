@@ -257,6 +257,10 @@
 	"1933 be 1933": "(SE#40) CG Kalmia",
 	"1936 be 1936": "(SE#40) Audrey",
 	"1939 be 1939": "(SE#40) Wallner",
+	"1963 be 1963": "(SE#41) CG Pone",
+	"1966 be 1966": "(SE#41) Luciano",
+	"1969 be 1969": "(SE#41) Pietro",
+	"1972 be 1972": "(SE#41) Dario",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
