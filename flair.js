@@ -307,6 +307,10 @@ flair.names = {
 	"1966 be 1966": "(SE#41) Luciano",
 	"1969 be 1969": "(SE#41) Pietro",
 	"1972 be 1972": "(SE#41) Dario",
+/*Japan: 2-24*/
+	"1975 be 1975": "(VDay 2020) Sieghard & Ignacio",
+	"1978 be 1978": "(VDay 2020) Sakura & Ayaka",
+	"1981 collab 1981": "(FFRK) Tyro",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
