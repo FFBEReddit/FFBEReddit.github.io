@@ -261,6 +261,8 @@
 	"1966 be 1966": "(SE#41) Luciano",
 	"1969 be 1969": "(SE#41) Pietro",
 	"1972 be 1972": "(SE#41) Dario",
+	"1975 be 1975": "(VDay 2020) Sieghard & Ignacio",
+	"1978 be 1978": "(VDay 2020) Sakura & Ayaka",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
@@ -635,6 +637,7 @@
 	"1876 collab 1876": "(Full Metal Alchemist) Riza Hawkeye",
 	"1879 collab 1879": "(Full Metal Alchemist) Winry Rockbell",
 	"1909 collab 1909": "(War of the Visions) Gilgamesh",
+	"1981 collab 1981": "(FFRK) Tyro",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
