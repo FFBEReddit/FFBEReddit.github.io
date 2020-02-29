@@ -263,6 +263,9 @@
 	"1972 be 1972": "(SE#41) Dario",
 	"1975 be 1975": "(VDay 2020) Sieghard & Ignacio",
 	"1978 be 1978": "(VDay 2020) Sakura & Ayaka",
+	"1984 be 1984": "(Special Raid) Bahamut Dark Fina",
+	"1987 be 1987": "(Special Raid) Lakshmi Lid",
+	"1990 be 1990": "(Special Raid) Phoenix Jake",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
@@ -476,6 +479,10 @@
 	"1942 ff 1942": "(FF8) Selphie",
 	"1945 ff 1945": "(FF8) Irvine",
 	"1948 ff 1948": "(FF8) Edea",
+	"1993 ff 1993": "(FF12) Freedom Seeker Vaan",
+	"1996 ff 1996": "(FF12) Dancer Penelo",
+	"2002 ff 2002": "(FF12) Reks",
+	"2005 ff 2005": "(FF12) Forest Beauty Fran",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
