@@ -311,6 +311,15 @@ flair.names = {
 	"1975 be 1975": "(VDay 2020) Sieghard & Ignacio",
 	"1978 be 1978": "(VDay 2020) Sakura & Ayaka",
 	"1981 collab 1981": "(FFRK) Tyro",
+/*Japan: 2-29*/
+	"1984 be 1984": "(Special Raid) Bahamut Dark Fina",
+	"1987 be 1987": "(Special Raid) Lakshmi Lid",
+	"1990 be 1990": "(Special Raid) Phoenix Jake",
+/*Japan: 3-15*/
+	"1993 ff 1993": "(FF12) Freedom Seeker Vaan",
+	"1996 ff 1996": "(FF12) Dancer Penelo",
+	"2002 ff 2002": "(FF12) Reks",
+	"2005 ff 2005": "(FF12) Forest Beauty Fran",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
