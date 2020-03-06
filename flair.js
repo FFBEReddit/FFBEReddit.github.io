@@ -320,6 +320,9 @@ flair.names = {
 	"1996 ff 1996": "(FF12) Dancer Penelo",
 	"2002 ff 2002": "(FF12) Reks",
 	"2005 ff 2005": "(FF12) Forest Beauty Fran",
+/*Japan: Boss Rush / 3-6*/
+	"2008 be 2008": "(Musical) Musical Moogle",
+	"2011 be 2011": "(Boss Rush #1) Zenaida",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
