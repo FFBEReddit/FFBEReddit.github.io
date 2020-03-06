@@ -266,6 +266,8 @@
 	"1984 be 1984": "(Special Raid) Bahamut Dark Fina",
 	"1987 be 1987": "(Special Raid) Lakshmi Lid",
 	"1990 be 1990": "(Special Raid) Phoenix Jake",
+	"2008 be 2008": "(Musical) Musical Moogle",
+	"2011 be 2011": "(Boss Rush #1) Zenaida",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
