@@ -323,6 +323,10 @@ flair.names = {
 /*Japan: Boss Rush / 3-6*/
 	"2008 be 2008": "(Musical) Musical Moogle",
 	"2011 be 2011": "(Boss Rush #1) Zenaida",
+/*Japan: 3-23*/
+	"2014 be 2014": "(SE#42) CG Nerine",
+	"2017 be 2017": "(SE#42) Owl",
+	"2020 be 2020": "(SE#42) Swan",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
