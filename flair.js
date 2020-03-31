@@ -327,6 +327,19 @@ flair.names = {
 	"2014 be 2014": "(SE#42) CG Nerine",
 	"2017 be 2017": "(SE#42) Owl",
 	"2020 be 2020": "(SE#42) Swan",
+/*Japan: 3-31*/
+	"2023 collab 2023": "(War of the Visions) Sterne",
+	"2026 collab 2026": "(War of the Visions) Kitone",
+	"2029 collab 2029": "(War of the Visions) Mont",
+/*Japan: 3-31*/
+	"2032 ff 2032": "(FF12) Princess Ashe",
+	"2035 ff 2035": "(FF12) Vossler",
+	"2038 ff 2038": "(FF12) Bergan",
+/*Japan: 4-15*/
+	"2041 ff 2041": "(FF9) CG Kuja",
+	"2044 ff 2044": "(FF9) Garland(FF9)",
+	"2047 ff 2047": "(FF9) Mikoto",
+	"2050 ff 2050": "(FF9) Pluto Knight Zidane",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
