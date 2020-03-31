@@ -488,6 +488,13 @@
 	"1996 ff 1996": "(FF12) Dancer Penelo",
 	"2002 ff 2002": "(FF12) Reks",
 	"2005 ff 2005": "(FF12) Forest Beauty Fran",
+	"2032 ff 2032": "(FF12) Princess Ashe",
+	"2035 ff 2035": "(FF12) Vossler",
+	"2038 ff 2038": "(FF12) Bergan",
+	"2041 ff 2041": "(FF9) CG Kuja",
+	"2044 ff 2044": "(FF9) Garland(FF9)",
+	"2047 ff 2047": "(FF9) Mikoto",
+	"2050 ff 2050": "(FF9) Pluto Knight Zidane",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
@@ -650,6 +657,9 @@
 	"1879 collab 1879": "(Full Metal Alchemist) Winry Rockbell",
 	"1909 collab 1909": "(War of the Visions) Gilgamesh",
 	"1981 collab 1981": "(FFRK) Tyro",
+	"2023 collab 2023": "(War of the Visions) Sterne",
+	"2026 collab 2026": "(War of the Visions) Kitone",
+	"2029 collab 2029": "(War of the Visions) Mont",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
