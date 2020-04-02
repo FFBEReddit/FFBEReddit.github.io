@@ -740,7 +740,7 @@
 	"8286 glex 8286": "(Christmas 2019) Levinson",
 	"8289 glex 8289": "(LNY2020) Emperor Foo",
 	"8292 glex 8292": "(LNY2020) Xuan Wu & Qing Long",
-	"8292 glex 8292": "(Full Metal Alchemist) King Bradley",
+	"8301 glex 8301": "(Full Metal Alchemist) King Bradley",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
