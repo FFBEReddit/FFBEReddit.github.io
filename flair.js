@@ -163,6 +163,8 @@ flair.names = {
 	"8226 glex 8226": "Bai Hu & Zhu Que",
 	"8289 glex 8289": "(LNY2020) Emperor Foo",
 	"8292 glex 8292": "(LNY2020) Xuan Wu & Qing Long",
+/*Global: 4/8/20*/
+	"8292 glex 8292": "(Full Metal Alchemist) King Bradley",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
