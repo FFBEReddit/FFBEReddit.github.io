@@ -660,6 +660,9 @@
 	"2023 collab 2023": "(War of the Visions) Sterne",
 	"2026 collab 2026": "(War of the Visions) Kitone",
 	"2029 collab 2029": "(War of the Visions) Mont",
+	"2053 collab 2053": "(Seiken Densetsu 3) Divine Fist Kevin",
+	"2056 collab 2056": "(Seiken Densetsu 3) Warlock Charlotte",
+	"2059 collab 2059": "(Seiken Densetsu 3) Fenrir Knight Riesz",
 /* [Global Exclusives (glex)] */
 	"678 glex 678": "Dangerous Ariana",
 	"893 glex 893": "Reberta",
