@@ -342,6 +342,10 @@ flair.names = {
 	"2044 ff 2044": "(FF9) Garland(FF9)",
 	"2047 ff 2047": "(FF9) Mikoto",
 	"2050 ff 2050": "(FF9) Pluto Knight Zidane",
+/*Japan: 4-23*/
+	"2053 collab 2053": "(Seiken Densetsu 3) Divine Fist Kevin",
+	"2056 collab 2056": "(Seiken Densetsu 3) Warlock Charlotte",
+	"2059 collab 2059": "(Seiken Densetsu 3) Fenrir Knight Riesz",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
