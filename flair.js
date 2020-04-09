@@ -200,7 +200,7 @@ flair.names = {
 /*Japan: 7-21*/
 	"1693 be 1693": "(SE#34) Sakura of the Delta Star",
 	"1696 be 1696": "(SE#34) Nichol of the Epsilon Star",
-	"1699 be 1699": "(SE#34) Calland",
+	"1699 be 1699": "(SE#34) Colundo",
 	"1702 be 1702": "(SE#34) Caroline",
 /*Japan: 7-31*/
 	"1705 collab 1705": "(Valkyrie Profile) Lezard Valeth",
