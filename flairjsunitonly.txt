@@ -234,7 +234,7 @@
 	"1660 be 1660": "(SE#33) Timorus",
 	"1693 be 1693": "(SE#34) Sakura of the Delta Star",
 	"1696 be 1696": "(SE#34) Nichol of the Epsilon Star",
-	"1699 be 1699": "(SE#34) Calland",
+	"1699 be 1699": "(SE#34) Colundo",
 	"1702 be 1702": "(SE#34) Caroline",
 	"1777 be 1777": "(SE#36) ジャン＝ピニヨン",
 	"1801 be 1801": "(4th Anniversary) Ifrit Rain",
