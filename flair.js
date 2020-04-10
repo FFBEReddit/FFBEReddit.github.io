@@ -346,6 +346,10 @@ flair.names = {
 	"2053 collab 2053": "(Seiken Densetsu 3) Divine Fist Kevin",
 	"2056 collab 2056": "(Seiken Densetsu 3) Warlock Charlotte",
 	"2059 collab 2059": "(Seiken Densetsu 3) Fenrir Knight Riesz",
+/*Japan: 4-21*/
+	"2062 be 2062": "(SE#43) CG Cleome",
+	"2065 be 2065": "(SE#43) Ambie",
+	"2068 be 2068": "(SE#43) Acele",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
