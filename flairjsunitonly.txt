@@ -271,6 +271,9 @@
 	"2014 be 2014": "(SE#42) CG Nerine",
 	"2017 be 2017": "(SE#42) Owl",
 	"2020 be 2020": "(SE#42) Swan",
+	"2062 be 2062": "(SE#43) CG Cleome",
+	"2065 be 2065": "(SE#43) Ambie",
+	"2068 be 2068": "(SE#43) Acele",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
