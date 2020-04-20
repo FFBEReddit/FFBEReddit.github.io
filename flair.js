@@ -350,6 +350,10 @@ flair.names = {
 	"2062 be 2062": "(SE#43) CG Cleome",
 	"2065 be 2065": "(SE#43) Ambie",
 	"2068 be 2068": "(SE#43) Acele",
+/*Japan: 4-30*/
+	"2071 ff 2071": "(FF9) Dagger",
+	"2074 ff 2074": "(FF9) Summoner Scion Eiko",
+	"2077 ff 2077": "(FF9) Queen Brahne",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
