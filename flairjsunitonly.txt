@@ -498,6 +498,9 @@
 	"2044 ff 2044": "(FF9) Garland(FF9)",
 	"2047 ff 2047": "(FF9) Mikoto",
 	"2050 ff 2050": "(FF9) Pluto Knight Zidane",
+	"2071 ff 2071": "(FF9) Dagger",
+	"2074 ff 2074": "(FF9) Summoner Scion Eiko",
+	"2077 ff 2077": "(FF9) Queen Brahne",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
