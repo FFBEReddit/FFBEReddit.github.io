@@ -354,6 +354,19 @@ flair.names = {
 	"2071 ff 2071": "(FF9) Dagger",
 	"2074 ff 2074": "(FF9) Summoner Scion Eiko",
 	"2077 ff 2077": "(FF9) Queen Brahne",
+/*Japan: 5-15*/
+	"2080 ff 2080": "(FF7R) NV Cloud",
+	"2080BS ff 2080BS": "(FF7R) NV Cloud (BS)",
+	"2081BS ff 2081BS": "(FF7) NV Tifa (BS)",
+	"2082BS ff 2082BS": "(FF7) NV Red13 (BS)",
+	"2083 ff 2083": "(FF7R) Barret",
+	"2086 ff 2086": "(FF7R) Reno",
+/*Japan: 5-21*/
+	"2089 be 2089": "(SE#44) NV Rain",
+	"2089BS be 2089BS": "(SE#44) NV Rain (BS)",
+	"2090BS be 2090BS": "(SE#44) NV Dark Veritas (BS)",
+	"2091 be 2091": "(SE#44) Bruce",
+	"2094 be 2094": "(SE#44) Rinora",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
