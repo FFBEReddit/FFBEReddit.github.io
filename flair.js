@@ -368,10 +368,10 @@ flair.names = {
 	"2091 be 2091": "(SE#44) Bruce",
 	"2094 be 2094": "(SE#44) Rinora",
 /*Japan: 5-31*/
-	"2097 be 2097": "(FF7R) NV Aerith",
-	"2097BS be 2097BS": "(FF7R) NV Aerith (BS)",
-	"2098BS be 2098BS": "(FF7) Cloud (BS)",
-	"2099 be 2099": "(FF7R) Rufus",
+	"2097 ff 2097": "(FF7R) NV Aerith",
+	"2097BS ff 2097BS": "(FF7R) NV Aerith (BS)",
+	"2098BS ff 2098BS": "(FF7) Cloud (BS)",
+	"2099 ff 2099": "(FF7R) Rufus",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
