@@ -512,6 +512,10 @@
 	"2082BS ff 2082BS": "(FF7) Red13 (BS)",
 	"2083 ff 2083": "(FF7R) Barret",
 	"2086 ff 2086": "(FF7R) Reno",
+	"2097 ff 2097": "(FF7R) NV Aerith",
+	"2097BS ff 2097BS": "(FF7R) NV Aerith (BS)",
+	"2098BS ff 2098BS": "(FF7) Cloud (BS)",
+	"2099 ff 2099": "(FF7R) Rufus",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
