@@ -279,6 +279,12 @@
 	"2090BS be 2090BS": "(SE#44) Dark Veritas (BS)",
 	"2091 be 2091": "(SE#44) Bruce",
 	"2094 be 2094": "(SE#44) Rinora",
+	"2102 be 2102": "NV Akstar",
+	"2102BS be 2102BS": "NV Akstar (BS)",
+	"2103BS be 2103BS": "CG Lasswell (BS)",
+	"2104BS be 2104BS": "Eileen (BS)",
+	"2105 be 2105": "(MK) Shinju",
+	"2108 be 2108": "(MK) Pecciotta",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
