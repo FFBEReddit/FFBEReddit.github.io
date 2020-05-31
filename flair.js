@@ -372,6 +372,13 @@ flair.names = {
 	"2097BS ff 2097BS": "(FF7R) NV Aerith (BS)",
 	"2098BS ff 2098BS": "(FF7) Cloud (BS)",
 	"2099 ff 2099": "(FF7R) Rufus",
+/*Japan: 6-15*/
+	"2102 be 2102": "NV Akstar",
+	"2102BS be 2102BS": "NV Akstar (BS)",
+	"2103BS be 2103BS": "CG Lasswell (BS)",
+	"2104BS be 2104BS": "Eileen (BS)",
+	"2105 be 2105": "(MK) Shinju",
+	"2108 be 2108": "(MK) Pecciotta",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
