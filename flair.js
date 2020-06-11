@@ -379,6 +379,12 @@ flair.names = {
 	"2104BS be 2104BS": "Eileen (BS)",
 	"2105 be 2105": "(MK) Shinju",
 	"2108 be 2108": "(MK) Pecciotta",
+/*Japan: 6-22*/
+	"2111 be 2111": "(SE#45) NV Sol",
+	"2111BS be 2111BS": "(SE#45) NV Sol (BS)",
+	"2112BS be 2112BS": "(SE#45) Dark Fina (BS)",
+	"2113BS be 2113BS": "(SE#45) Sakura (BS)",
+	"2114 be 2114": "(SE#45) Alhena",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
