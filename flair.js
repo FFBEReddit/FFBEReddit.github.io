@@ -385,6 +385,31 @@ flair.names = {
 	"2112BS be 2112BS": "(SE#45) Dark Fina (BS)",
 	"2113BS be 2113BS": "(SE#45) Sakura (BS)",
 	"2114 be 2114": "(SE#45) Alhena",
+/*Japan: 6-30*/
+	"2117 ff 2117": "(FF12) NV Gabranth",
+	"2117BS ff 2117BS": "(FF12) NV Gabranth (BS)",
+	"2118BS ff 2118BS": "(FF12) Balthier (BS)",
+	"2119BS be 2119BS": "Loren (BS)",
+	"2120 ff 2120": "(FF12) Larsa V2",
+/*Japan: 7-15*/
+	"2123 ff 2123": "(FF2) (CG) NV Firion",
+	"2123BS ff 2123BS": "(FF2) (CG) NV Firion (BS)",
+	"2124BS ff 2124BS": "(FF2) (Old) Emperor (BS)",
+	"2125BS ff 2125BS": "(FF2) (Old) Dark Knight Leon (BS)",
+	"2126 ff 2126": "(FF2) Maria (V2)",
+	"2129 ff 2129": "(FF2) Minwu",
+/*Japan: 7-21*/
+	"2132 ff 2132": "(SE#46) (CG) NV Summer Fina & Daisy",
+	"2132BS ff 2132BS": "(SE#46) (CG) NV Summer Fina & Daisy (BS)",
+	"2133BS ff 2133BS": "(SE#46) (Old) Summer Fina & Lid (BS)",
+	"2134BS ff 2134BS": "(SE#46) (Old) Summer Folka & Citra (BS)",
+	"2135 ff 2135": "(SE#46) Mineur",
+/*Japan: 7-31*/
+	"2138 be 2138": "(Raid) NV Madam Edel",
+	"2138BS be 2138BS": "(Raid) NV Madam Edel (BS)",
+	"2139BS be 2139BS": "(Raid) (Old) Nalu (BS)",
+	"2140 be 2140": "(Raid) Unmatched Strongman Elbis",
+	"2143 be 2143": "(Raid) Black Mage Lexa",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
