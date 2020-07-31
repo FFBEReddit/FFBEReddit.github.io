@@ -410,6 +410,14 @@ flair.names = {
 	"2139BS be 2139BS": "(Raid) (Old) Nalu (BS)",
 	"2140 be 2140": "(Raid) Unmatched Strongman Elbis",
 	"2143 be 2143": "(Raid) Black Mage Lexa",
+/*Japan: 8-16*/
+	"2146 collab 2146": "(KHDR) NV Sora (KH3)",
+	"2146BS collab 2146BS": "(KHDR) Sora BS (BS)",
+	"2147 collab 2147": "(KHDR) NV Riku (KH3)",
+	"2147BS collab 2147BS": "(KHDR) NV Riku (BS)",
+	"2148 collab 2148": "(KHDR) NV Kairi (KH3)",
+	"2148BS collab 2148BS": "(KHDR) NV Kairi  (BS)",
+	"2149 collab 2149": "(KHDR) Young Xehanort",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
