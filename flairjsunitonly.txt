@@ -296,6 +296,11 @@
 	"2139BS be 2139BS": "(Raid) (Old) Nalu (BS)",
 	"2140 be 2140": "(Raid) Unmatched Strongman Elbis",
 	"2143 be 2143": "(Raid) Black Mage Lexa",
+	"2152 be 2152": "(SE#47) NV Physalis",
+	"2152BS be 2152BS": "(SE#47) NV Physalis (BS)",
+	"2153BS be 2153BS": "(SE#47) (Old) CG Charlotte (BS)",
+	"2154BS be 2154BS": "(SE#47) (Old) CG Fina (BS)",
+	"2155 be 2155": "(SE#47) Knight Lawrence",
 /* [Final Fantasy (ff)] */
 	"029 ff 029": "(FF6) Wedge",
 	"031 ff 031": "(FF6) Biggs",
