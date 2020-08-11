@@ -418,6 +418,12 @@ flair.names = {
 	"2148 collab 2148": "(KHDR) NV Kairi (KH3)",
 	"2148BS collab 2148BS": "(KHDR) NV Kairi  (BS)",
 	"2149 collab 2149": "(KHDR) Young Xehanort",
+/*Japan: 8-21*/
+	"2152 be 2152": "(SE#47) NV Physalis",
+	"2152BS be 2152BS": "(SE#47) NV Physalis (BS)",
+	"2153BS be 2153BS": "(SE#47) (Old) CG Charlotte (BS)",
+	"2154BS be 2154BS": "(SE#47) (Old) CG Fina (BS)",
+	"2155 be 2155": "(SE#47) Knight Lawrence",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
