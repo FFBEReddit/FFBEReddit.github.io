@@ -165,6 +165,12 @@ flair.names = {
 	"8292 glex 8292": "(LNY2020) Xuan Wu & Qing Long",
 /*Global: 4/8/20*/
 	"8301 glex 8301": "(Full Metal Alchemist) King Bradley",
+/*Global: 9/30/20*/
+	"8304 glex 8304": "Itachi",
+	"8309 glex 8309": "NV Yoshikiri",
+	"8310BS glex 8310BS": "NV Yoshikiri (BS)",
+	"8307 glex 8307": "NV Starlight Elena",
+	"8308BS glex 8308BS": "NV Starlight Elena (BS)",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
@@ -399,11 +405,11 @@ flair.names = {
 	"2126 ff 2126": "(FF2) Maria (V2)",
 	"2129 ff 2129": "(FF2) Minwu",
 /*Japan: 7-21*/
-	"2132 ff 2132": "(SE#46) (CG) NV Summer Fina & Daisy",
-	"2132BS ff 2132BS": "(SE#46) (CG) NV Summer Fina & Daisy (BS)",
-	"2133BS ff 2133BS": "(SE#46) (Old) Summer Fina & Lid (BS)",
-	"2134BS ff 2134BS": "(SE#46) (Old) Summer Folka & Citra (BS)",
-	"2135 ff 2135": "(SE#46) Mineur",
+	"2132 be 2132": "(SE#46) (CG) NV Summer Fina & Daisy",
+	"2132BS be 2132BS": "(SE#46) (CG) NV Summer Fina & Daisy (BS)",
+	"2133BS be 2133BS": "(SE#46) (Old) Summer Fina & Lid (BS)",
+	"2134BS be 2134BS": "(SE#46) (Old) Summer Folka & Citra (BS)",
+	"2135 be 2135": "(SE#46) Mineur",
 /*Japan: 7-31*/
 	"2138 be 2138": "(Raid) NV Madam Edel",
 	"2138BS be 2138BS": "(Raid) NV Madam Edel (BS)",
@@ -424,6 +430,31 @@ flair.names = {
 	"2153BS be 2153BS": "(SE#47) (Old) CG Charlotte (BS)",
 	"2154BS be 2154BS": "(SE#47) (Old) CG Fina (BS)",
 	"2155 be 2155": "(SE#47) Knight Lawrence",
+/*Japan: 8-31*/
+	"2158 ff 2158": "(FF3) NV Onion Knight",
+	"2158BS ff 2158BS": "(FF3) NV Onion Knight (BS)",
+	"2159BS ff 2159BS": "(FF3) DK.Luneth (BS)",
+	"2160BS ff 2160BS": "(FF3) OK.Refia (BS)",
+	"2161 ff 2161": "(FF3) Black Mage Arc",
+/*Japan: 9-15*/
+	"2164 ff 2164": "(FF6) NV Terra",
+	"2164BS ff 2164BS": "(FF6) NV Terra (BS)",
+	"2165BS ff 2165BS": "(FF6) A.Shadow (BS)",
+	"2166BS ff 2166BS": "(FF6) A.M.Kefka (BS)",
+	"2167 ff 2167": "(FF6) Relm",
+	"2170 ff 2170": "(FF6) Strago",
+/*Japan: 9-24*/
+	"2173 be 2173": "(SE#48) NV Lasswell",
+	"2173BS be 2173BS": "(SE#48) NV Lasswell (BS)",
+	"2174BS be 2174BS": "(SE#48) Yuraisha (BS)",
+	"2175BS be 2175BS": "(SE#48) Kunshira (BS)",
+	"2176 be 2176": "(SE#48) Hess Sage Rowen",
+/*Japan: 9-30*/
+	"2179 ff 2179": "(FF6) NV Locke",
+	"2179BS ff 2179BS": "(FF6) NV Locke (BS)",
+	"2180BS ff 2180BS": "(FF6) F.Sabin (BS)",
+	"2181BS ff 2181BS": "(FF6) K.Edgar (BS)",
+	"2182 ff 2182": "(FF6) Gambler Setzer",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
