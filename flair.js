@@ -455,6 +455,23 @@ flair.names = {
 	"2180BS ff 2180BS": "(FF6) F.Sabin (BS)",
 	"2181BS ff 2181BS": "(FF6) K.Edgar (BS)",
 	"2182 ff 2182": "(FF6) Gambler Setzer",
+/*Japan: 10-31*/
+	"2185 be 2185": "(5th Anni MK) NV Rain & Fina",
+	"2185BS be 2185BS": "(5th Anni MK) NV Rain & Fina (BS)",
+	"2186 be 2186": "(5th Anni MK) NV Lasswell & Raegen",
+	"2186BS be 2186BS": "(5th Anni MK) NV Lasswell & Raegen (BS)",
+	"2187 be 2187": "(5th Anni MK) NV Charlotte & Physalis",
+	"2187BS be 2187BS": "(5th Anni MK) NV Charlotte & Physalis (BS)",
+	"2188BS be 2188BS": "(5th Anni MK) Lid & Jake (BS)",
+	"2189BS be 2189BS": "(5th Anni MK) Fina & Dark Fina (BS)",
+	"2190BS be 2190BS": "(5th Anni ToH) Fenrir Edel (BS)",
+/*Japan: 10-31-2*/
+	"2191 be 2191": "(SE#49) NV Dark Fina & Sol",
+	"2191BS be 2191BS": "(SE#49) NV Dark Fina & Sol (BS)",
+	"2192 be 2192": "(SE#49) NV Akstar & Cleome",
+	"2192BS be 2192BS": "(SE#49) NV Akstar & Cleome (BS)",
+	"2193BS be 2193BS": "(SE#49) Ifrit Rain (BS)",
+	"2194BS be 2194BS": "(SE#49) Bahamut Fina (BS)",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
