@@ -171,6 +171,9 @@ flair.names = {
 	"8310BS glex 8310BS": "NV Yoshikiri (BS)",
 	"8307 glex 8307": "NV Starlight Elena",
 	"8308BS glex 8308BS": "NV Starlight Elena (BS)",
+/*Global: 11/04/20*/
+	"8311 glex 8311": "NV Ibara",
+	"8311BS glex 8311BS": "NV Ibara (BS)",
 /*========================*/
 /*Japan: 5-20*/
 	"1619 be 1619": "(SE#32) Madam Edel",
@@ -472,6 +475,12 @@ flair.names = {
 	"2192BS be 2192BS": "(SE#49) NV Akstar & Cleome (BS)",
 	"2193BS be 2193BS": "(SE#49) Ifrit Rain (BS)",
 	"2194BS be 2194BS": "(SE#49) Bahamut Fina (BS)",
+/*Japan: 11-15*/
+	"2191 ff 2191": "(FF13LR) NV SoS Lightning",
+	"2191 ff 2191": "(FF13LR) NV SoS Lightning (BS)",
+	"2191 ff 2191": "(FF13) Radiant Lightning (BS)",
+	"2191 ff 2191": "(FF13) Lightning (BS)",
+	"2191 ff 2191": "(FF13LR) Lumina",
 /*========================*/
 /*Popular 7-30*/
 	"451 be 451": "Eileen",
