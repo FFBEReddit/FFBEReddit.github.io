@@ -589,6 +589,11 @@
 	"2180BS ff 2180BS": "(FF6) F.Sabin (BS)",
 	"2181BS ff 2181BS": "(FF6) K.Edgar (BS)",
 	"2182 ff 2182": "(FF6) Gambler Setzer",
+	"2191 ff 2191": "(FF13LR) NV SoS Lightning",
+	"2191 ff 2191": "(FF13LR) NV SoS Lightning (BS)",
+	"2191 ff 2191": "(FF13) Radiant Lightning (BS)",
+	"2191 ff 2191": "(FF13) Lightning (BS)",
+	"2191 ff 2191": "(FF13LR) Lumina",
 /* [Final Fantasy Spin-offs (spoff)] */
 	"259 spoff 259": "(FFT) Ramza",
 	"261 spoff 261": "(FFT) Delita",
@@ -850,6 +855,8 @@
 	"8310BS glex 8310BS": "NV Yoshikiri (BS)",
 	"8307 glex 8307": "NV Starlight Elena",
 	"8308BS glex 8308BS": "NV Starlight Elena (BS)",
+	"8311 glex 8311": "NV Ibara",
+	"8311BS glex 8311BS": "NV Ibara (BS)",
 /* [Others (other)] */
 	"ms01 other ms01": "King Gil Snapper",
 	"ms02 other ms02": "Mini Cactuar",
